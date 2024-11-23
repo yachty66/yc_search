@@ -1,0 +1,45 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Runs every day at 6 PM PST (UTC-8)
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-sheet:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Install Playwright browsers
+      run: |
+        python -m playwright install
+
+    - name: Load environment variables
+      run: |
+        echo "LINKEDIN_USERNAME=${{ secrets.LINKEDIN_USERNAME }}" >> $GITHUB_ENV
+        echo "LINKEDIN_PASSWORD=${{ secrets.LINKEDIN_PASSWORD }}" >> $GITHUB_ENV
+        echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+        echo "TWITTER_API_KEY=${{ secrets.TWITTER_API_KEY }}" >> $GITHUB_ENV
+        echo "TWITTER_API_SECRET_KEY=${{ secrets.TWITTER_API_SECRET_KEY }}" >> $GITHUB_ENV
+        echo "TWITTER_ACCESS_TOKEN=${{ secrets.TWITTER_ACCESS_TOKEN }}" >> $GITHUB_ENV
+        echo "TWITTER_ACCESS_TOKEN_SECRET=${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}" >> $GITHUB_ENV
+
+    - name: Run main script
+      env:
+        GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+      run: |
+        echo "$GOOGLE_CREDENTIALS" > google.json
+        python workflow/main.py
