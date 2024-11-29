@@ -1,0 +1,1416 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/synth-3",
+        "company_name": "Synth",
+        "founded_year": "2024",
+        "team_size": "1",
+        "location": "",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "REINFORCEMENT-LEARNING",
+            "INFRASTRUCTURE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
+        "description": "You add a few decorators to your agent code, and run your agent on a dataset of questions you've generated / collected in the wild. We give you back a dataset of message triplets that's ready to be uploaded to your fine-tuning provider of choice (OpenAI, OpenPipe, Anthropic, Gemini, etc) that will give you a language model ready to steer your agent in production more effectively.",
+        "founders": [
+            {
+                "name": "Josh Purtell, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/JoshPurtell",
+                    "LinkedIn profile": "https://www.linkedin.com/in/joshua-purtell/"
+                }
+            }
+        ],
+        "company_url": "https://www.usesynth.ai",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/collectwise",
+        "company_name": "CollectWise",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "FINTECH",
+            "GENERATIVE-AI",
+            "FINANCE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
+        "description": "CollectWise automates consumer debt collection with generative AI. CollectWise's AI agents send personalized emails and SMS communications to debtors, speak with debtors over the phone, report to credit bureaus, and automatically enforce judgments through liens or garnishments.\n\nWe currently have 110 customers and have successfully collected on $2,000,000 in balances, achieving 2X higher recovery rates than human collectors.",
+        "founders": [
+            {
+                "name": "Vivek Isukapalli, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/vivek-isukapalli-56597a28b"
+                }
+            },
+            {
+                "name": "Sean OBrien, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/sean-o-brien-412b28175"
+                }
+            }
+        ],
+        "company_url": "https://www.collectwise.co/",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/alex",
+        "company_name": "Alex",
+        "founded_year": "2024",
+        "team_size": "1",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "DEVELOPER-TOOLS",
+            "AI-ASSISTANT",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
+        "description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\n\nWorry not!\n\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\n\nCheck it out: https://alexcodes.app",
+        "founders": [
+            {
+                "name": "Daniel Edrisian, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/DanielEdrisian",
+                    "LinkedIn profile": "https://www.linkedin.com/in/daniel-edrisian/"
+                }
+            }
+        ],
+        "company_url": "https://alexcodes.app",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/alex-sidebar/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/relvy-ai",
+        "company_name": "Relvy AI",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "",
+        "tags": [
+            "F24",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
+        "description": "Relvy automates troubleshooting of production software. Engineers can get started with Relvy's lightweight debugging language model in less than 5 minutes, and save 30 minutes of triaging time per on-call alert.",
+        "founders": [
+            {
+                "name": "Bharath Bhat, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/bharathpbhat",
+                    "LinkedIn profile": "https://linkedin.com/in/bharathpbhat"
+                }
+            },
+            {
+                "name": "Simranjit Singh, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/simranjit2112"
+                }
+            }
+        ],
+        "company_url": "https://www.relvy.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/relvyai"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/humanlayer",
+        "company_name": "HumanLayer",
+        "founded_year": "2023",
+        "team_size": "1",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "DEVELOPER-TOOLS",
+            "GENERATIVE-AI",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
+        "description": "HumanLayer is an API and SDK that enables tool-calling AI Agents to contact humans for help, feedback, and approvals.\n\nFor example, one of our customers uses HumanLayer to have his SDR agent ping him in slack to review/revise agent-drafted emails before they go out to prospects.\n\nHumanLayer has clients for Python and Typescript, is designed to work with any framework + LLM, and lets you contact humans across slack, sms, email, and other channels.",
+        "founders": [
+            {
+                "name": "Dexter Horthy, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/dexhorthy",
+                    "LinkedIn profile": "https://linkedin.com/in/dexterihorthy"
+                }
+            }
+        ],
+        "company_url": "https://humanlayer.dev",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/humanlayer-dev/",
+            "Twitter account": "https://twitter.com/humanlayer_dev",
+            "Github profile": "https://github.com/humanlayer"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sunset",
+        "company_name": "Sunset",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "F24",
+            "FINTECH",
+            "CONSUMER-FINANCE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3aca735eb25aeb8caa09c528937ec0401398.png",
+        "description": "Sunset can track down bank accounts, retirement accounts, investment accounts, property and more for families after losing a loved one. Sunset will close those accounts and move the money into a Sunset estate account to manage.",
+        "founders": [
+            {
+                "name": "Stephen Walter, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/stephen_walter",
+                    "LinkedIn profile": "https://www.linkedin.com/in/stephen-walter-sunset/"
+                }
+            },
+            {
+                "name": "Kaela Worthen, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kaelaworthen/"
+                }
+            }
+        ],
+        "company_url": "https://www.sunsetapp.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/sunset-estate-app/",
+            "Twitter account": "https://x.com/SunsetEstateApp"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/bifrost-orbital",
+        "company_name": "Bifrost Orbital",
+        "founded_year": "2024",
+        "team_size": "0",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "SATELLITES",
+            "AEROSPACE",
+            "TELECOMMUNICATIONS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f0391c3b77050497a05133de8530d09aaa7d5f7e.png",
+        "description": "Bifrost Orbital is building the SSH for satellites, i.e., creating a network of satellites to ensure continuous, real-time communication for other satellites in space. Our technology allows customers to monitor and control their satellites 24/7, just like accessing a computer remotely. We offer reliable, low-power, and backward-compatible solutions that work for both small and large spacecraft, making space operations more efficient and connected.",
+        "founders": [
+            {
+                "name": "Geffen Avraham, Co-Founder and CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/geffen-avraham/"
+                }
+            },
+            {
+                "name": "Onkar Singh, Founder and CEO",
+                "social_links": {
+                    "Twitter account": "https://x.com/ionkarbatra",
+                    "LinkedIn profile": "https://www.linkedin.com/in/ionkarbatra/"
+                }
+            }
+        ],
+        "company_url": "https://bifrostorbital.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/bifrostorbital",
+            "Twitter account": "https://x.com/bifrostorbital/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/orbitalnerds"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/metreecs",
+        "company_name": "Metreecs",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "",
+        "tags": [
+            "F24",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/69c12f5f2e6e61b0c27a8363a971af3307f489c2.png",
+        "description": "Metreecs helps retailers plan, buy, and allocate products using AI-demand forecasting. We prevent overstock and out-of-stock situations, allowing clients to eliminate waste, free up capital, and drive higher sales.",
+        "founders": [
+            {
+                "name": "Martin Dimitrov, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mardimitrov/"
+                }
+            },
+            {
+                "name": "Elie Dufeu, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/elie-dufeu-goldenberg"
+                }
+            },
+            {
+                "name": "Thibaut Pellegrin, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/thibaut-pellegrin-0b4353171/"
+                }
+            }
+        ],
+        "company_url": "https://www.metreecs.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/metreecs/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/ember-copilot",
+        "company_name": "Ember Copilot",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "SAAS",
+            "B2B",
+            "DIGITAL-HEALTH",
+            "HEALTHCARE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
+        "description": "We help surgeons automate medical scribing, patient intake, insurance letters, and more, all directly integrated within their EHR.",
+        "founders": [
+            {
+                "name": "Charlene Wang, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/hsinleiwang",
+                    "LinkedIn profile": "https://linkedin.com/in/hsinleiwang"
+                }
+            },
+            {
+                "name": "Warren Wang, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/warrenweinwang"
+                }
+            }
+        ],
+        "company_url": "https://www.embercopilot.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/embercopilot",
+            "Twitter account": "https://twitter.com/embercopilotAI"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/bramble",
+        "company_name": "Bramble",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "REAL-ESTATE",
+            "CONSUMER",
+            "PROPTECH",
+            "CONSUMER-PRODUCTS",
+            "AI",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bdad8ea0547835501c79323a83215447e9980af6.png",
+        "description": "Bramble is an AI-powered real estate brokerage that provides end-to-end homebuying services for a simple flat fee. Set up tours, evaluate homes, submit offers, and close confidently - with on-demand support from expert agents and AI-backed tools when you need it.\n\nWe opened early access in CA and in a few weeks saw hundreds of sign-ups, several touring buyers, and have submitted multiple offers across the state - all with near-zero marketing spend. We just offered buyers what they really wanted: a high-quality experience for a reasonable price.",
+        "founders": [
+            {
+                "name": "Nimesh Chakravarthi, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/nimesh-chakravarthi-68238749"
+                }
+            },
+            {
+                "name": "Daniel Hsu, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/dannyighsu"
+                }
+            },
+            {
+                "name": "Deepan Mehta, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/meksikanpijha",
+                    "LinkedIn profile": "https://linkedin.com/in/deepanmehta"
+                }
+            }
+        ],
+        "company_url": "https://usebramble.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/usebramble/",
+            "Twitter account": "https://x.com/usebramble",
+            "Github profile": "https://github.com/village-chat"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/curo",
+        "company_name": "Curo",
+        "founded_year": "2023",
+        "team_size": "6",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "TRANSPORTATION",
+            "ENERGY",
+            "AUTOMOTIVE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/451b623d0d8d5338642a73d361cc7f15a4cca9bc.png",
+        "description": "Curo helps electric fleets park and charge their vehicles anywhere with the world\u2019s largest private network of underutilized EV charging sites. We increase revenue by 5x for EV charger owners and enable instant fleet electrification at a fraction of the cost.\n\nOwners of EV chargers get <10% utilization after paying hundreds of thousands of dollars to install, and distributed fleets are rapidly trying to electrify yet charging is a huge bottleneck. Curo is a Virtual Depot platform enabling fleets to long-term lease underutilized EV chargers from owners.\n\nWe're live across CA, NY and WA and have grown 100% MoM for the past 4 months. Curo is already backed by investors like Blue Bear, Not Boring, Slow and Eniac.",
+        "founders": [
+            {
+                "name": "Andrew Porter, CTO & Co-Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/EnergizedAndrew",
+                    "LinkedIn profile": "https://linkedin.com/in/andrew-porter-a10953b4"
+                }
+            },
+            {
+                "name": "Kieran White, CEO & Co-Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/kieran-luke-white"
+                }
+            }
+        ],
+        "company_url": "https://www.curocharging.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/curocharging/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/moonshine",
+        "company_name": "Moonshine",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "MACHINE-LEARNING",
+            "VIDEO",
+            "MEDIA",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/94a6e84ebf75210fade2ded6e582a5572bf77e7d.png",
+        "description": "",
+        "founders": [
+            {
+                "name": "Harsha Gundala, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/harshagundala"
+                }
+            },
+            {
+                "name": "Ganesh Pimpale, Co-Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ganesh-pimpale-864248155/"
+                }
+            }
+        ],
+        "company_url": "https://usemoonshine.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/usemoonshine",
+            "Twitter account": "https://x.com/useMoonshine"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/dexter",
+        "company_name": "Dexter",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "Berlin, Germany",
+        "tags": [
+            "F24",
+            "SAAS",
+            "B2B",
+            "WORKFLOW-AUTOMATION",
+            "NO-CODE",
+            "OPERATIONS",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8bf1d044f7655cff3da689fa41b5c1e8fa982cea.png",
+        "description": "Dexter is a no-code automation tool for ops team. For example, Dance, a European mobility company with over $11 million ARR, uses us to automate processes like resolving traffic tickets and accidents.",
+        "founders": [
+            {
+                "name": "Vincent Garrigues, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/garriguv/"
+                }
+            },
+            {
+                "name": "Caterina Kiehntopf, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/caterina-kiehntopf-58a6aa34/"
+                }
+            },
+            {
+                "name": "Bella Wu, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/bellacwu"
+                }
+            }
+        ],
+        "company_url": "https://www.getdexter.co/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/getdexter",
+            "Github profile": "https://github.com/getdexter"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gecko-security",
+        "company_name": "Gecko Security",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "SAAS",
+            "B2B",
+            "SECURITY",
+            "CYBERSECURITY",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6cb5e156a2d833200fe0f915ffe682c440528c6a.png",
+        "description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don\u2019t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
+        "founders": [
+            {
+                "name": "Jeevan Jutla, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/jjjutla",
+                    "LinkedIn profile": "https://www.linkedin.com/in/jeevan-jutla/"
+                }
+            },
+            {
+                "name": "Artemiy Malyshau, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/nkoorty",
+                    "LinkedIn profile": "https://www.linkedin.com/in/artemiy-malyshau/"
+                }
+            }
+        ],
+        "company_url": "https://gecko.security",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/geckosec",
+            "Twitter account": "https://x.com/gecko_sec",
+            "Github profile": "https://github.com/Gecko-Security"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/fresco",
+        "company_name": "Fresco",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "CONSTRUCTION",
+            "COMPLIANCE",
+            "NOTE-TAKING",
+            "AI-ASSISTANT",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e1fb691819d2f0da01fceb80f8f4288c7f863b60.png",
+        "description": "Fresco helps construction superintendents take 1000s of pages of notes, 10x faster. We automate the process of completing progress notes and punch lists, reducing time requirements from hours to minutes. Superintendents simply record videos of their site walk, and Fresco pulls out the relevant information and formats it into rich reports. We also offer one-click integrations with leading project management software like Procore and ACC, for maximum usability.",
+        "founders": [
+            {
+                "name": "Akhil Gupta, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/akhil-climate"
+                }
+            },
+            {
+                "name": "Arvind Veluvali, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/arvindveluvali"
+                }
+            }
+        ],
+        "company_url": "https://fresco-ai.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/104799979/admin/dashboard/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/manicode",
+        "company_name": "Manicode",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "DEVELOPER-TOOLS",
+            "GENERATIVE-AI",
+            "ENTERPRISE-SOFTWARE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd3e681d3754d6e346efb726f191b1e153d0c5a1.png",
+        "description": "Chat with Manicode to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\n```\n> npm install -g manicode\n```\nRun `manicode` from your project directory. It will read and write to files in your project to produce the code you want.\n\nManicode is different from all the other coding agents, we swear!\n\nWhy it's cool:\n- **It chooses files to read automatically on each message**\u00a0\u2014 unlike Cursor\u2019s composer feature. This saves you time and makes Manicode respond more comprehensively.\n- **It takes 0 clicks**\u00a0\u2014 type your instructions and Manicode will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\n- **It has full access to your terminal**\u00a0\u2014 Manicode can run terminal commands to install packages, run tests, check for type errors, etc. Manicode is an engineer working for you.",
+        "founders": [
+            {
+                "name": "Brandon Chen, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/brandonkachen",
+                    "LinkedIn profile": "https://www.linkedin.com/in/brandon-chen-37b95910a/"
+                }
+            },
+            {
+                "name": "James Grugett, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/jahooma",
+                    "LinkedIn profile": "https://www.linkedin.com/in/james-grugett"
+                }
+            }
+        ],
+        "company_url": "https://manicode.ai",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/beerme",
+        "company_name": "BeerMe",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "New York",
+        "tags": [
+            "F24",
+            "CRYPTO-WEB3",
+            "PAYMENTS",
+            "CONSUMER",
+            "MESSAGING",
+            "SOCIAL-MEDIA",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e0650ba9f1acc1bda5cfdcdba5b62f3ddf00ae2.png",
+        "description": "BeerMe is a community payments platform that makes sending money fun and personal. Send an old friend a couple beers ($16) on his birthday. Text your daughter a coffee ($5) to brighten her finals week. Slack your team little treats ($4 each) at the end of a long sprint. With a curated library of tokens, any moment becomes an occasion. Like all social media content, tokens can be sent via private, anonymous links on any platform where people stay connected. Transfers are instant, global, and free. Track and manage tokens, swap for other options, or cash out USDC to any crypto wallet or exchange. With BeerMe, there\u2019s a token for every moment.",
+        "founders": [
+            {
+                "name": "Noah Newfield, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/NoahNewfield",
+                    "LinkedIn profile": "https://www.linkedin.com/in/noah-newfield-208a40129/"
+                }
+            },
+            {
+                "name": "Gray Newfield, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/gray_newfield",
+                    "LinkedIn profile": "https://www.linkedin.com/in/gray-newfield-447b9b111/"
+                }
+            }
+        ],
+        "company_url": "https://beerme.world/",
+        "company_socials": {
+            "Twitter account": "https://x.com/BeerMeWorld"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/luthor",
+        "company_name": "Luthor",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "B2B",
+            "MARKETING",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
+        "description": "One-click AI content generators have flooded the market with low-quality, cookie-cutter content. This makes it harder for brands that truly care to stand out. At Luthor we offer on-brand content that your readers will actually love to read. Our AI handles repetitive tasks like keyword research and data gathering, then creates the first draft. From there, we bring in domain experts and skilled writers to refine the content to fit your industry and adhere to your unique brand voice.\n\nAt Luthor we're taking back the internet and re-humanizing it one blog at a time.",
+        "founders": [
+            {
+                "name": "Glenn Espinosa, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/gxespino",
+                    "LinkedIn profile": "https://www.linkedin.com/in/glennespinosa"
+                }
+            },
+            {
+                "name": "John Espinosa, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/johnespinosa1988/"
+                }
+            }
+        ],
+        "company_url": "https://luthor.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/luthor",
+            "Twitter account": "https://x.com/luthorai",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/luthor-ai"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/crustdata",
+        "company_name": "Crustdata",
+        "founded_year": "",
+        "team_size": "6",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "B2B",
+            "SALES-ENABLEMENT",
+            "MARKETING",
+            "TALENT-ACQUISITION",
+            "ENTERPRISE-SOFTWARE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e669afb7723c5967737a21fe97e52ff85274723b.png",
+        "description": "Crustdata provides live company and people data via APIs. We make hard to get data easy to use at scale.\n\n\nWe have developed technology that allows us to pipe in live data from over a dozen different data sources and deliver this data instantly to our customers.\n\nWe serve use cases like: automatic pipeline building, pipeline prioritization, champion watching, company and people triggers for sales and marketing automation, investment deal sourcing\n\nOur goal is index all the important data on the web and deliver it to customers in an easy-to-use way.",
+        "founders": [
+            {
+                "name": "Abhilash Chowdhary, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/thechowdhary",
+                    "LinkedIn profile": "https://linkedin.com/in/abhilash-chowdhary"
+                }
+            },
+            {
+                "name": "Manmohit Grewal, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/ManmohitG",
+                    "LinkedIn profile": "https://www.linkedin.com/in/manmohitgrewal/"
+                }
+            },
+            {
+                "name": "Chris Pisarski, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/chris-pisarski"
+                }
+            }
+        ],
+        "company_url": "https://crustdata.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/crustdata"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/issen",
+        "company_name": "issen",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "New York",
+        "tags": [
+            "F24",
+            "GENERATIVE-AI",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/124eb8c7fdda65607bf62e57ca5b5bf049fae711.png",
+        "description": "issen is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals.\n\nOur mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
+        "founders": [
+            {
+                "name": "Anton Apostolatos, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/antonaf"
+                }
+            },
+            {
+                "name": "Mariano Sorgente, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/sorgente711",
+                    "LinkedIn profile": "https://www.linkedin.com/in/sorgente"
+                }
+            }
+        ],
+        "company_url": "https://issen.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/protegee",
+        "company_name": "Protegee",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "FINTECH",
+            "PAYMENTS",
+            "INFRASTRUCTURE",
+            "TRUST-&-SAFETY",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6461ef457cf83a4e19b3aba7d15b9da4c86d9b49.png",
+        "description": "We\u2019re excited to launch our first product that allows your AI voice agents to accept payments easily and securely over the phone. We manage compliance, security, and fraud, letting you focus on creating great experiences.\n\n\nWe are setting the stage for the agentic economy, starting with voice payments. Web and agent-to-agent transactions coming soon.",
+        "founders": [
+            {
+                "name": "Kirthi Banothu, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/kirthibanothu",
+                    "LinkedIn profile": "https://linkedin.com/in/kirthibanothu"
+                }
+            },
+            {
+                "name": "Xiaoyu Li, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/xiaoyuli240"
+                }
+            }
+        ],
+        "company_url": "http://protegee.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/protegee-ai/about/",
+            "Twitter account": "https://x.com/protegeeai"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/ctgt",
+        "company_name": "CTGT",
+        "founded_year": "2023",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "DEEP-LEARNING",
+            "SAAS",
+            "B2B",
+            "ENTERPRISE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
+        "description": "Our platform eliminates barriers to production-ready AI with automatic hallucination mitigation and model steering for LLMs. This enables deployment in critical applications like finance or healthcare with ease. By solving the inefficiencies of deep learning, we train models with 10x (soon 500x) less compute, empowering more companies to create customized, domain specific AI.",
+        "founders": [
+            {
+                "name": "Cyril Gorlla, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/cyrilgorlla",
+                    "LinkedIn profile": "https://linkedin.com/in/cyrilgorlla"
+                }
+            },
+            {
+                "name": "Trevor Tuttle, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/trevor-j-tuttle"
+                }
+            }
+        ],
+        "company_url": "https://www.ctgt.ai/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/ctgt/",
+            "Twitter account": "https://twitter.com/CTGTInc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/circlemind",
+        "company_name": "Circlemind",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "",
+        "tags": [
+            "F24",
+            "DEEP-LEARNING",
+            "DEVELOPER-TOOLS",
+            "GENERATIVE-AI",
+            "AI",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
+        "description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+        "founders": [
+            {
+                "name": "Luca Pinchetti, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/luca-pinchetti-414230222/"
+                }
+            },
+            {
+                "name": "Yuhang Song, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/yuhang-song/"
+                }
+            },
+            {
+                "name": "Antonio Vespoli, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/antonio-vespoli-895727121"
+                }
+            }
+        ],
+        "company_url": "https://circlemind.co",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/astrix-health",
+        "company_name": "Astrix Health",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "AIOPS",
+            "DEVELOPER-TOOLS",
+            "COLLABORATION",
+            "HEALTHCARE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
+        "description": "Astrix offers an SDK designed for health tech developers to create safer, more reliable LLM applications. Our platform helps identify clinical safety issues, generate synthetic medical data, and conduct thorough application testing, allowing developers to quickly deliver powerful, safe generative AI solutions that benefit patients and providers alike.",
+        "founders": [
+            {
+                "name": "Thomas Blake, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/thomas-blake-abbba0151/"
+                }
+            },
+            {
+                "name": "Abhinav Swaminathan, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/abuswami/"
+                }
+            }
+        ],
+        "company_url": "https://www.astrix.health",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/astrix-health",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/astrix-health"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/regatta-storage",
+        "company_name": "Regatta Storage",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "COMPUTATIONAL-STORAGE",
+            "BIG-DATA",
+            "CLOUD-COMPUTING",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0397434e0b6d2ed128ce064a791b8816ac83bf09.png",
+        "description": "Regatta transforms S3 buckets into a 30x faster, unlimited, local disk. Regatta enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Regatta for shareable, local storage of data set and model versions that never runs out of capacity.",
+        "founders": [
+            {
+                "name": "Hunter Leath, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/jhleath",
+                    "LinkedIn profile": "https://www.linkedin.com/in/hleath/"
+                }
+            }
+        ],
+        "company_url": "https://regattastorage.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/regatta-storage"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/vespper",
+        "company_name": "Vespper",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "Tel Aviv-Yafo, Israel",
+        "tags": [
+            "F24",
+            "AIOPS",
+            "DEVELOPER-TOOLS",
+            "B2B",
+            "AI-ASSISTANT",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdc46cce4531bcb8cd250abaee08dfc030c7bb3b.png",
+        "description": "Vespper is an open-source AI on-call agent that automatically investigates production issues, such as incidents and alerts, and delivers detailed findings directly to Slack. It integrates with observability tools like Coralogix, DataDog and Grafana, codebases on GitHub, and internal knowledge platforms like Notion and Confluence, and manages to produce non-trivial insight about the problem that can save precious time & money.",
+        "founders": [
+            {
+                "name": "Dudu Lasry, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/DavidLasry17164",
+                    "LinkedIn profile": "https://linkedin.com/in/dudu-lasry-05022879"
+                }
+            },
+            {
+                "name": "Topaz Turkenitz, Founder",
+                "social_links": {
+                    "Twitter account": "https://www.twitter.com/topaz_tee",
+                    "LinkedIn profile": "https://linkedin.com/in/topaz-t"
+                }
+            }
+        ],
+        "company_url": "https://vespper.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/vespper",
+            "Facebook profile": "https://www.facebook.com/profile.php?id=61556255706936",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/vespper",
+            "Github profile": "https://github.com/vespperhq/vespper"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/replexica",
+        "company_name": "Replexica",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "DEVELOPER-TOOLS",
+            "B2B",
+            "INTERNATIONAL",
+            "AI",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
+        "description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+        "founders": [
+            {
+                "name": "Veronica Prilutskaya, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/vrcprl",
+                    "LinkedIn profile": "https://www.linkedin.com/in/vrcprl/"
+                }
+            },
+            {
+                "name": "Max Prilutskiy, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/maxprilutskiy",
+                    "LinkedIn profile": "https://www.linkedin.com/in/maxprilutskiy"
+                }
+            }
+        ],
+        "company_url": "https://replexica.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/replexica",
+            "Github profile": "https://github.com/replexica"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sandra-ai",
+        "company_name": "Sandra AI",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "Paris, France",
+        "tags": [
+            "F24",
+            "GENERATIVE-AI",
+            "CUSTOMER-SERVICE",
+            "AUTOMOTIVE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f0cbbb79a074c37ef2a992bb2acea7bb3e6eb8af.png",
+        "description": "Sandra builds multilingual voice AI receptionists, specifically designed for car dealerships. It seamlessly handles customer calls\u2014whether for appointments, service details, availability, or more\u2014offering a natural, human-like experience 24/7.\n\nWhat sets Sandra apart is its deep integration with dealership management systems, allowing it to manage even the most complex queries. This ensures no calls or leads are missed, boosting both customer satisfaction and team efficiency.\n\nThe car dealership industry handles over 3 billion calls annually, with each call averaging 4 to 6 minutes. Traditional call centers charge between $1 and $2 per minute, depending on the complexity of the service. Thus, we estimate the total addressable market for inbound calls alone to exceed $26 billion a year. This does not even account for future opportunities in outbound calls.\n\nBefore launching Sandra, the founding team spent years working in the automotive and call center industries during their time at McKinsey. The three co-founders graduated in Data Science and AI from institutions like MIT, Ecole Polytechnique and HEC Paris.",
+        "founders": [
+            {
+                "name": "Badr El Idrissi Mokdad, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/badr-el-idrissi-mokdad-a36336177"
+                }
+            },
+            {
+                "name": "Ismail Majjad, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/ismailmajjad"
+                }
+            },
+            {
+                "name": "Skandere Sahli, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/skand%C3%A8re-sahli-8a152616b"
+                }
+            }
+        ],
+        "company_url": "https://www.sandra-ai.com/en",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/sandra-ai/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/vocera",
+        "company_name": "Vocera",
+        "founded_year": "2024",
+        "team_size": "3",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "DEVELOPER-TOOLS",
+            "B2B",
+            "INFRASTRUCTURE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+        "description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\n\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\n\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+        "founders": [
+            {
+                "name": "Tarush Agarwal, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/tarush_agarwal_",
+                    "LinkedIn profile": "https://www.linkedin.com/in/tarush-agarwal-b14851160/"
+                }
+            },
+            {
+                "name": "Shashij Gupta, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/Shashijgupta",
+                    "LinkedIn profile": "https://linkedin.com/in/shashij-gupta-671aa614a"
+                }
+            },
+            {
+                "name": "Sidhant Kabra, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/kabra_sidhant",
+                    "LinkedIn profile": "https://www.linkedin.com/in/sidhantkabra"
+                }
+            }
+        ],
+        "company_url": "https://www.vocera.ai/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/104795138",
+            "Twitter account": "https://x.com/VoceraAI"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/supercontrast",
+        "company_name": "supercontrast",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "F24",
+            "AIOPS",
+            "MACHINE-LEARNING",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/790820337661ae1bc9c065bae89b47e0ad126432.png",
+        "description": "With supercontrast, developers can find and deploy the best available machine learning solution for their use case. With less than 10 lines of code developers can evaluate the performance of all available models and compare them on latency, cost, and accuracy!",
+        "founders": [
+            {
+                "name": "Shravan Kumaran, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/shravan-kumaran-7b2b80123/"
+                }
+            },
+            {
+                "name": "Carter McClellan, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/carter-mcclellan/"
+                }
+            }
+        ],
+        "company_url": "https://supercontrast.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/supercontrast/?viewAsMember=true",
+            "Github profile": "https://github.com/supercontrast-ai/supercontrast"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/raycaster",
+        "company_name": "Raycaster",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "SALES",
+            "SALES-ENABLEMENT",
+            "DATA-SCIENCE",
+            "MARKET-RESEARCH",
+            "AI-ASSISTANT",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9792a6e3d48255a53bbf6af175652a0f22302159.png",
+        "description": "Raycaster helps sellers quickly understand which accounts to prioritize, what products to recommend, and how to engage effectively - replacing hours of manual research and guesswork with deep, actionable insights. We're building the intelligence layer that helps enterprise teams truly understand and serve their most valuable customers.",
+        "founders": [
+            {
+                "name": "Anthony Humay, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/anthonyhumay",
+                    "LinkedIn profile": "https://www.linkedin.com/in/ahumay"
+                }
+            },
+            {
+                "name": "Levi Lian, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/levilian1",
+                    "LinkedIn profile": "https://linkedin.com/in/levi-lian"
+                }
+            }
+        ],
+        "company_url": "https://raycaster.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/raycasterai",
+            "Twitter account": "https://x.com/raycasterai",
+            "Facebook profile": "https://www.facebook.com/raycasterai",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/raycaster"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/openfunnel",
+        "company_name": "OpenFunnel",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "GENERATIVE-AI",
+            "B2B",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3933af22f00b2c643f560120f88df7fa344a1ffe.png",
+        "description": "Developers have scattered yet heavy touch-points that represent adoption and buying intent.\n\nWe help GTM teams at dev-tooling companies identify and sell to their most relevant users. Our AI agents thoroughly understand your dev-tool, scan developer channels, analyze interactions, and alert you about strong developer leads and engagement signals.",
+        "founders": [
+            {
+                "name": "Aditya Lahiri, Founder",
+                "social_links": {
+                    "Twitter account": "http://x.com/cross_entrippy",
+                    "LinkedIn profile": "https://www.linkedin.com/in/adityalahiri/"
+                }
+            },
+            {
+                "name": "Fenil Suchak, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/fenilsuchak",
+                    "LinkedIn profile": "https://linkedin.com/in/fenilsuchak"
+                }
+            }
+        ],
+        "company_url": "https://openfunnel.dev",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/openfunnel/about/",
+            "Twitter account": "https://x.com/openfunnel"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gait",
+        "company_name": "Gait",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "DEVELOPER-TOOLS",
+            "AI",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7dd4a0ac111eef37a235327e872f43f243700db2.png",
+        "description": "Ever been confused by a block of AI-generated code? Gait is a Cursor and VS Code extension that will let you view the prompt that generated code. Continue off of your coworker's conversations, view analytics on your AI codegen use, and more!",
+        "founders": [
+            {
+                "name": "Alex Hsia, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/AlexYHsia",
+                    "LinkedIn profile": "https://www.linkedin.com/in/ahsia/"
+                }
+            },
+            {
+                "name": "Kyle Li, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kyleli626/"
+                }
+            }
+        ],
+        "company_url": "https://getgait.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/gaitinc/",
+            "Twitter account": "https://twitter.com/getgait",
+            "Github profile": "https://github.com/gait-ai"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/revyl",
+        "company_name": "Revyl",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "DEVELOPER-TOOLS",
+            "B2B",
+            "INFRASTRUCTURE",
+            "AI",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
+        "description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
+        "founders": [
+            {
+                "name": "Landseer Enga, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/landseerenga",
+                    "LinkedIn profile": "https://linkedin.com/in/landseerenga"
+                }
+            },
+            {
+                "name": "Anam Hira, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/anamhira",
+                    "LinkedIn profile": "https://linkedin.com/in/anam-h-5b37a2125"
+                }
+            }
+        ],
+        "company_url": "https://www.revyl.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/revylai/",
+            "Twitter account": "https://x.com/tryrevyl",
+            "Github profile": "https://github.com/RevylAI/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/docflow",
+        "company_name": "Docflow",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "SAAS",
+            "B2B",
+            "SCHEDULING",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/32d42acf0542829b6eab7463ff7eb577e34a27dd.png",
+        "description": "We make software to automate call shift scheduling for hospital residents/faculty and generally help hospital administrators keep track of their departments. Hospitals have long lists of requirements and rules they must follow, leading administrators to spend hundreds of hours a month ensuring their departments adhere to guidelines.",
+        "founders": [
+            {
+                "name": "Benjamin Liu, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ben-franklin-liu/"
+                }
+            },
+            {
+                "name": "Michael Mounajjed, Founder, CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/michael-mounajjed"
+                }
+            }
+        ],
+        "company_url": "https://www.mydocflow.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/docflowsoftware"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/rulebase",
+        "company_name": "Rulebase",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "F24",
+            "FINANCE",
+            "COMPLIANCE",
+            "OPERATIONS",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/642979c858a987426c5ec887f54d05c12f8e9974.png",
+        "description": "We create voice agents that simulate phishing attacks on your employees, helping to strengthen your defenses while identifying vulnerabilities.",
+        "founders": [
+            {
+                "name": "Gideon Ebose, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/gideon_eb",
+                    "LinkedIn profile": "https://linkedin.com/in/gideon-ebose-2a5187100"
+                }
+            },
+            {
+                "name": "Chidi Williams, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/chidiwilliams__",
+                    "LinkedIn profile": "https://www.linkedin.com/in/chidiwilliams/"
+                }
+            }
+        ],
+        "company_url": "https://rulebase.co",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/rulebasehq/",
+            "Twitter account": "https://x.com/RulebaseHQ"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pearai",
+        "company_name": "PearAI",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "DEVELOPER-TOOLS",
+            "OPEN-SOURCE",
+            "CULTURE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
+        "description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source and extendable Cursor... But it's much more than that.\n\n[Context]\nPearAI is becoming a curator of the best AI tools available. We started off with integrating Continue for our AI chat, and we're now integrating more AI tooling which serve different layers of the AI tech stack. This is called the PearAI Inventory, which holds all the AI tooling available.\n\n[Problem Statement]\n- Developers have other needs which a simple AI chat itself does not satisfy, necessitating them to still rely on other AI tools, such as Perplexity, mem0, v0, etc. There are many useful layers of the AI tech stack (e.g. code generation, applying edits, file generation, up-to-date AI search, RAG, terminal, personalization/memory, deployment, image generation, voice, etc.), and not all are currently satisfied by existing AI editors, which mostly try to be a one-size-fit-all solution.\n- Most developers do not know what the latest AI tools are, or how to use them. Even if they know, the latest AI tools constantly update, and change very fast, it\u2019s difficult for the average developer to stay up to date (most developers still use the unpaid version of ChatGPT!).\n- For power users of AI tools, which are a small minority, they have to subscribe to multiple AI tools (Perplexity, ChatGPT, Claude, Cursor, etc.), each that do better at specific use cases. This causes overspending, additional context switching during workflows, and simply the inconvenience of managing multiple not fully utilized pricy subscriptions.\n- Enterprises also require more privacy safety which closed source AI tooling does not provide. We have already seen many companies express this concern, and that an open source version would be much safer.\n\n[Solution]\n- Each layer of the AI tech stack has existing products fully dedicated to perfecting those specific layers. We integrate the best ones for each layer into PearAI, creating the most useful, and effortless user experience one can have with AI coding.\n- PearAI is open source, allowing AI integrations to be easier, and the active community to help support it. This also helps with privacy, as enterprises can see that their data is not being stored from the app.\n\nExisting users have expressed an up to 5x speed up for their development workflow. Try out PearAI today for free: https://trypear.ai/download.",
+        "founders": [
+            {
+                "name": "Nang Ang, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/not_nang",
+                    "LinkedIn profile": "https://linkedin.com/in/nathanang"
+                }
+            },
+            {
+                "name": "Duke Pan, Founder",
+                "social_links": {
+                    "Twitter account": "https://x.com/CodeFryingPan",
+                    "LinkedIn profile": "https://linkedin.com/in/matthewdukepan"
+                }
+            }
+        ],
+        "company_url": "https://trypear.ai",
+        "company_socials": {
+            "LinkedIn profile": "https://linkedin.com/company/trypearai",
+            "Twitter account": "https://x.com/trypearai",
+            "Github profile": "https://github.com/trypear/pearai-master"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/lightscreen-ai",
+        "company_name": "Lightscreen AI",
+        "founded_year": "2024",
+        "team_size": "2",
+        "location": "Sunnyvale, CA",
+        "tags": [
+            "F24",
+            "ARTIFICIAL-INTELLIGENCE",
+            "SAAS",
+            "RECRUITING",
+            "TALENT-ACQUISITION",
+            "CONVERSATIONAL-AI",
+            "SUNNYVALE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
+        "description": "Lightscreen is an interactive AI interview experience -- a different approach than other screening tools that unlocks greater insight into a candidate's engineering fundamentals and critical thinking skills. Engineering teams use Lightscreen to expand the number of candidates they can screen, eliminate bias, decrease the number of steps in their interview process, and decrease time-to-fill on technical roles.",
+        "founders": [
+            {
+                "name": "Prachie Banthia, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/prachiebanthia/"
+                }
+            },
+            {
+                "name": "Gavin Saldanha, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/gavin-v-saldanha/"
+                }
+            }
+        ],
+        "company_url": "https://lightscreen.ai",
+        "company_socials": {}
+    }
+]

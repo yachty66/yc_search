@@ -1,0 +1,204 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/reddit",
+        "company_name": "Reddit",
+        "founded_year": "",
+        "team_size": "2000",
+        "location": "San Francisco",
+        "tags": [
+            "S05",
+            "COMMUNITY",
+            "SOCIAL-MEDIA",
+            "SOCIAL",
+            "SOCIAL-NETWORK",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2f5bed7ab9abb66ee8ccbf622c27a9d741c3c4e4.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Steve Huffman, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/shuffman56/"
+                }
+            }
+        ],
+        "company_url": "http://reddit.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/reddit",
+            "Facebook profile": "https://www.facebook.com/reddit/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/reddit"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kiko",
+        "company_name": "Kiko",
+        "founded_year": "2005",
+        "team_size": "0",
+        "location": "Cambridge, MA",
+        "tags": [
+            "S05",
+            "CALENDAR"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8645d994cd671af0ca1acfe8cde27021183de17e.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Justin Kan",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/justinkan",
+                    "LinkedIn profile": "https://www.linkedin.com/in/justinkan"
+                }
+            },
+            {
+                "name": "Emmett Shear",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/eshear",
+                    "LinkedIn profile": "https://www.linkedin.com/in/emmettshear"
+                }
+            }
+        ],
+        "company_url": "http://kiko.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kiko"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/loopt",
+        "company_name": "Loopt",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Mountain View",
+        "tags": [
+            "S05",
+            "MOUNTAIN VIEW"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05936fb444740088b7c60ce578e9cfa2b2607070.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Nick Sivo",
+                "social_links": {}
+            },
+            {
+                "name": "Sam Altman",
+                "social_links": {}
+            }
+        ],
+        "company_url": "http://loopt.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/loopt/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/loopt"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/textpayme",
+        "company_name": "TextPayMe",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Redmond, WA",
+        "tags": [
+            "S05"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Phil Yuen",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/philipyuen/"
+                }
+            }
+        ],
+        "company_url": "http://textpayme.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/textpayme"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/infogami",
+        "company_name": "Infogami",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "London, United Kingdom",
+        "tags": [
+            "S05",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://infogami.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/memamp",
+        "company_name": "Memamp",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "Somerville, MA",
+        "tags": [
+            "S05",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://memamp.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/simmery",
+        "company_name": "Simmery",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "Wallingford, CT",
+        "tags": [
+            "S05",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://simmery.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/clickfacts",
+        "company_name": "Clickfacts",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "S05",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Greg Gurevich",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/greggurevich"
+                }
+            },
+            {
+                "name": "Mikhail Gurevich",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/mikhailgurevich",
+                    "LinkedIn profile": "https://www.linkedin.com/in/mikhailgurevich/"
+                }
+            },
+            {
+                "name": "Mikhail Ledvich",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mledvich"
+                }
+            }
+        ],
+        "company_url": "http://clickfacts.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/clickfacts"
+        }
+    }
+]

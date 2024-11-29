@@ -3,13 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Startuprxiv</title>
-    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+    <title>Startuprxiv - YC Companies</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="script.js" defer></script> <!-- Link to the main JavaScript file -->
+    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+    <script src="script_local.js" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
-<body>
-    <!-- Container for Companies Section -->
-    <div id="companies-section"></div>
+<body class="min-h-screen bg-gray-50 font-[Inter,sans-serif]">
+    <!-- Header Section -->
+    <header class="bg-white border-b">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col md:flex-row items-center justify-between gap-8">
+                <div class="flex-1 text-center md:text-left">
+                    <h1 class="text-4xl font-bold text-gray-900 tracking-tight">YC AI Search</h1>
+                    <p class="mt-4 text-lg text-gray-600 max-w-3xl leading-relaxed">
+                        This website provides a search interface for searching all of the YC companies listed at 
+                        <a href="https://www.ycombinator.com/companies" 
+                           class="text-blue-600 hover:text-blue-800 underline decoration-2 decoration-blue-500/30" 
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            ycombinator.com/companies
+                        </a>, 
+                        powered by the large context window of Google's Gemini 1.5 Flash model.
+                    </p>
+                    <p class="mt-3 text-sm text-gray-500">
+                        If you like this work, please consider upvoting on Kaggle for the Gemini 1.5 Flash API competition.
+                    </p>
+                </div>
+                <div class="flex-shrink-0">
+                    <img src="pg.png" alt="Illustration" class="w-48 md:w-72 h-auto object-contain">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <!-- Search Bar and Button -->
+            <div class="max-w-3xl mx-auto mb-8">
+                <div class="flex gap-2 shadow-sm">
+                    <input 
+                        type="text" 
+                        id="search-bar" 
+                        placeholder="Search for companies..." 
+                        class="flex-1 px-4 py-3 rounded-l-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                    />
+                    <button 
+                        id="search-button" 
+                        class="px-6 py-3 bg-blue-600 text-white rounded-r-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors"
+                    >
+                        Search
+                    </button>
+                </div>
+            </div>
+
+            <!-- Companies Grid -->
+            <div id="companies-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <!-- Company Card Template (This will be populated by JavaScript) -->
+                
+            </div>
+        </div>
+    </main>
 </body>
 </html>
