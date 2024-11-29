@@ -44,23 +44,43 @@ async function get_company_data(companyNames, allCompanies) {
   );
 }
 
-export default async function handler(req, res) {
-  console.log("Query received:", req.body);
-
-  const { query } = req.body;
-  console.log("Getting companies for query:", query);
-
-  // Read the local JSON file
-  const filePath = path.join(process.cwd(), "data/all.json");
-  const jsonData = fs.readFileSync(filePath, "utf8");
-  const allCompanies = JSON.parse(jsonData);
-
-  const prompt = get_prompt(query, JSON.stringify(allCompanies, null, 2));
+async function processPartialData(query, jsonData) {
+  const prompt = get_prompt(query, JSON.stringify(jsonData, null, 2));
   const result = await model.generateContent(prompt);
-  const companyNames = get_clean_json(await result.response.text()).response;
+  const response = await result.response.text();
+  return get_clean_json(response).response;
+}
 
-  const matchedCompanies = await get_company_data(companyNames, allCompanies);
-  console.log("Matched Companies:", matchedCompanies);
+export default async function handler(req, res) {
+  try {
+    console.log("Query received:", req.body);
+    const { query } = req.body;
+    console.log("Getting companies for query:", query);
 
-  return res.status(200).json(matchedCompanies);
+    // Read both JSON files
+    const filePath1 = path.join(process.cwd(), "data/all_part1.json");
+    const filePath2 = path.join(process.cwd(), "data/all_part2.json");
+    
+    const jsonData1 = JSON.parse(fs.readFileSync(filePath1, "utf8"));
+    const jsonData2 = JSON.parse(fs.readFileSync(filePath2, "utf8"));
+    const allCompanies = [...jsonData1, ...jsonData2];
+
+    // Process both parts in parallel
+    const [companyNames1, companyNames2] = await Promise.all([
+      processPartialData(query, jsonData1),
+      processPartialData(query, jsonData2)
+    ]);
+
+    // Combine results
+    const allCompanyNames = [...new Set([...companyNames1, ...companyNames2])];
+    
+    // Get full company data for matched companies
+    const matchedCompanies = await get_company_data(allCompanyNames, allCompanies);
+    console.log("Matched Companies:", matchedCompanies);
+
+    return res.status(200).json(matchedCompanies);
+  } catch (error) {
+    console.error("Error processing query:", error);
+    return res.status(500).json({ error: "Internal server error" });
+  }
 }

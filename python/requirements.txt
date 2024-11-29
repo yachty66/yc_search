@@ -1,0 +1,10 @@
+gspread
+oauth2client
+beautifulsoup4
+pandas
+gspread-formatting
+nest-asyncio
+playwright
+python-dotenv
+openai
+tweepy

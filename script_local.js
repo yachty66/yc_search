@@ -188,7 +188,7 @@ function createCompanyModal(company) {
                     </div>
                     
                     <div class="space-y-4">
-                        <div class="grid grid-cols-2 gap-4">
+                        <div class="grid grid-cols-3 gap-4">
                             <div>
                                 <h3 class="font-semibold text-gray-900">Founded</h3>
                                 <p class="text-gray-600">${company.founded_year || 'N/A'}</p>
@@ -200,10 +200,6 @@ function createCompanyModal(company) {
                             <div>
                                 <h3 class="font-semibold text-gray-900">Location</h3>
                                 <p class="text-gray-600">${company.location || 'N/A'}</p>
-                            </div>
-                            <div>
-                                <h3 class="font-semibold text-gray-900">YC Batch</h3>
-                                <p class="text-gray-600">${company.tags.find(tag => /^[WS]\d{2}$/.test(tag)) || 'N/A'}</p>
                             </div>
                         </div>
                         
