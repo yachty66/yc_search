@@ -194,12 +194,20 @@ function createCompanyModal(company) {
                                 <p class="text-gray-600">${company.founded_year || 'N/A'}</p>
                             </div>
                             <div>
+                                <h3 class="font-semibold text-gray-900">Team Size</h3>
+                                <p class="text-gray-600">${company.team_size ? company.team_size + ' people' : 'N/A'}</p>
+                            </div>
+                            <div>
                                 <h3 class="font-semibold text-gray-900">Location</h3>
                                 <p class="text-gray-600">${company.location || 'N/A'}</p>
                             </div>
+                            <div>
+                                <h3 class="font-semibold text-gray-900">YC Batch</h3>
+                                <p class="text-gray-600">${company.tags.find(tag => /^[WS]\d{2}$/.test(tag)) || 'N/A'}</p>
+                            </div>
                         </div>
                         
-                        ${company.founders ? `
+                        ${company.founders?.length ? `
                             <div>
                                 <h3 class="font-semibold text-gray-900 mb-2">Founders</h3>
                                 <div class="space-y-2">
@@ -217,6 +225,22 @@ function createCompanyModal(company) {
                                                 `).join('')}
                                             </div>
                                         </div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${company.company_socials && Object.keys(company.company_socials).length ? `
+                            <div>
+                                <h3 class="font-semibold text-gray-900 mb-2">Company Social Media</h3>
+                                <div class="flex flex-wrap gap-2">
+                                    ${Object.entries(company.company_socials).map(([platform, url]) => `
+                                        <a href="${url}" 
+                                           target="_blank" 
+                                           rel="noopener noreferrer"
+                                           class="text-sm text-[#FF4F00] hover:text-[#E64600]">
+                                            ${platform}
+                                        </a>
                                     `).join('')}
                                 </div>
                             </div>
