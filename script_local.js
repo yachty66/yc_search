@@ -81,10 +81,19 @@ function handleScroll() {
 async function handleSearch(event) {
     event.preventDefault();
     const searchInput = document.getElementById('search-bar');
+    const apiKeyInput = document.getElementById('api-key');
     const companiesGrid = document.getElementById('companies-grid');
     
+    if (!apiKeyInput || !apiKeyInput.value.trim()) {
+        companiesGrid.innerHTML = `
+            <div class="col-span-full text-center py-10">
+                <p class="text-red-600">Please enter your Google API key first.</p>
+            </div>
+        `;
+        return;
+    }
+    
     if (searchInput && searchInput.value.trim()) {
-        // Show loading state
         companiesGrid.innerHTML = `
             <div class="col-span-full flex justify-center items-center py-20">
                 <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
@@ -99,17 +108,17 @@ async function handleSearch(event) {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    query: searchInput.value.trim()
+                    query: searchInput.value.trim(),
+                    apiKey: apiKeyInput.value.trim()
                 })
             });
 
             if (!response.ok) {
-                throw new Error('Network response was not ok');
+                const errorData = await response.json();
+                throw new Error(errorData.error || 'Network response was not ok');
             }
 
             const matchedCompanies = await response.json();
-            
-            // Clear the grid
             companiesGrid.innerHTML = '';
 
             if (matchedCompanies.length === 0) {
@@ -121,20 +130,18 @@ async function handleSearch(event) {
                 return;
             }
 
-            // Render the matched companies
             renderCompanyCards(matchedCompanies);
 
         } catch (error) {
             console.error('Error searching companies:', error);
             companiesGrid.innerHTML = `
                 <div class="col-span-full text-center py-10">
-                    <p class="text-red-600">Error searching companies. Please try again.</p>
+                    <p class="text-red-600">${error.message || 'Error searching companies. Please try again.'}</p>
                 </div>
             `;
         }
     }
 }
-
 // Initialize the page
 document.addEventListener('DOMContentLoaded', () => {
     loadJSONData();
