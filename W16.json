@@ -1,0 +1,3663 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/embark-trucks",
+        "company_name": "Embark Trucks",
+        "founded_year": "2016",
+        "team_size": "300",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "AUTONOMOUS-TRUCKING",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f54038f84e639bce5c45d1756018b94f17f6125.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Alex Rodrigues, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/alexrodriguesca",
+                    "LinkedIn profile": "https://ca.linkedin.com/in/rodriguesalex"
+                }
+            },
+            {
+                "name": "Brandon Moak, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://ca.linkedin.com/in/brandonmoak"
+                }
+            },
+            {
+                "name": "Michael Skupien",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/michael-sk"
+                }
+            }
+        ],
+        "company_url": "http://embarktrucks.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/embarktrucks/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/truebill",
+        "company_name": "Truebill",
+        "founded_year": "2015",
+        "team_size": "225",
+        "location": "Silver Spring, MD",
+        "tags": [
+            "W16",
+            "FINTECH"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fae52e07d79df342dcfc28d120038d2083ae0679.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Haroon Mokhtarzada, Founder",
+                "social_links": {
+                    "Twitter account": "https://www.twitter.com/haroon",
+                    "LinkedIn profile": "https://www.linkedin.com/in/haroonmokhtarzada/"
+                }
+            },
+            {
+                "name": "Yahya Mokhtarzada, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/yahyamokhtarzada"
+                }
+            },
+            {
+                "name": "Idris Mokhtarzada, Founder/CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/idris",
+                    "LinkedIn profile": "https://www.linkedin.com/in/idrismokhtarzada"
+                }
+            }
+        ],
+        "company_url": "https://www.truebill.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/rocketmoney/",
+            "Twitter account": "https://twitter.com/rocketmoneyapp",
+            "Facebook profile": "https://www.facebook.com/rocketmoney",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/truebill"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/nurx",
+        "company_name": "NURX",
+        "founded_year": "2015",
+        "team_size": "300",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "CONSUMER-HEALTH-SERVICES",
+            "NEW YORK"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e30eef55b4ffb18884d227d20476b264b3388dd6.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.nurx.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/nurx/?viewAsMember=true",
+            "Twitter account": "https://twitter.com/nurxapp",
+            "Facebook profile": "https://www.facebook.com/nurxapp/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/nurx"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/caper",
+        "company_name": "Caper",
+        "founded_year": "",
+        "team_size": "15",
+        "location": "",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "CASHIERLESS-CHECKOUT",
+            "COMPUTER-VISION",
+            "RETAIL-TECH"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/45034c22d81491a4e49c2c46c3c822d2d820941d.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Ahmed Beshry, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://ca.linkedin.com/in/ahmedbeshry"
+                }
+            },
+            {
+                "name": "Lindon Gao, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/lindon-gao/24/b31/1a1"
+                }
+            },
+            {
+                "name": "Yilin Huang, Founder",
+                "social_links": {}
+            }
+        ],
+        "company_url": "https://www.caper.ai/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/queuehop"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/paystack",
+        "company_name": "Paystack",
+        "founded_year": "",
+        "team_size": "115",
+        "location": "Lagos, Nigeria",
+        "tags": [
+            "W16",
+            "FINTECH"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8f4d18618abc91ad79be53d918a199daffad6f58.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.paystack.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/paystack/",
+            "Twitter account": "https://twitter.com/paystack",
+            "Facebook profile": "https://www.facebook.com/PaystackHQ",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/paystack"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gitprime",
+        "company_name": "GitPrime",
+        "founded_year": "2014",
+        "team_size": "110",
+        "location": "Durango, CO",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "B2B"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b2d3dd198bca90e8788c0aefde72b644504fe75e.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Ben Thompson, Founder/Chief Customer Officer",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/thebent/",
+                    "LinkedIn profile": "https://www.linkedin.com/in/thompsonben"
+                }
+            },
+            {
+                "name": "Travis Kimmel, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/travis-kimmel-20111b2a"
+                }
+            }
+        ],
+        "company_url": "https://www.gitprime.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/gitprime-analytics",
+            "Twitter account": "https://twitter.com/gitprime",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/gitprime"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/podium",
+        "company_name": "Podium",
+        "founded_year": "2014",
+        "team_size": "1000",
+        "location": "Lehi, UT",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "SAAS",
+            "B2B",
+            "AI",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d90bc164db5dd25a81e6dcfa222470eadf2c783a.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Dennis Steele, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/steeledennis"
+                }
+            },
+            {
+                "name": "Eric Rea, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ericrea"
+                }
+            }
+        ],
+        "company_url": "https://podium.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/podium/",
+            "Twitter account": "https://twitter.com/podiumhq",
+            "Facebook profile": "https://www.facebook.com/Podium/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/podium-2",
+            "Github profile": "https://github.com/podium"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/rappi",
+        "company_name": "Rappi",
+        "founded_year": "2015",
+        "team_size": "4800",
+        "location": "Bogot\u00e1, Colombia",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "DELIVERY",
+            "LATIN-AMERICA",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44285cf605c3f1d288f2fb7c2f002f859ab92d0b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sebastian Mejia, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/mejiasebas"
+                }
+            },
+            {
+                "name": "Simon Borrero, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://co.linkedin.com/in/simonborrero"
+                }
+            },
+            {
+                "name": "Felipe Villamarin, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/felipe-villamarin-85518161"
+                }
+            }
+        ],
+        "company_url": "http://www.rappi.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/rappi/",
+            "Twitter account": "https://twitter.com/rappicolombia",
+            "Facebook profile": "https://twitter.com/RappiColombia",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/rappi",
+            "Github profile": "https://github.com/rappiinc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mio",
+        "company_name": "Mio",
+        "founded_year": "2015",
+        "team_size": "12",
+        "location": "Austin, TX",
+        "tags": [
+            "W16",
+            "SAAS",
+            "MESSAGING",
+            "TEAM-COLLABORATION",
+            "AUSTIN",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d2e2140644182cb7ec4a70381a94543d8c8de82a.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "James Cundle, Founder/CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jamescundle",
+                    "LinkedIn profile": "https://www.linkedin.com/in/jamescundle/"
+                }
+            },
+            {
+                "name": "Tom Hadfield, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "http://twitter.com/tomhadfield",
+                    "LinkedIn profile": "http://www.linkedin.com/in/hadfieldtom/"
+                }
+            }
+        ],
+        "company_url": "http://m.io",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/mio",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/message-io"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/focal-systems",
+        "company_name": "Focal Systems",
+        "founded_year": "2016",
+        "team_size": "170",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "DEEP-LEARNING",
+            "GROCERY",
+            "COMPUTER-VISION",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e25ba04ae8686807d958c48f1372502741b4b2e3.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Michael Cantalino, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/michael-john-cantalino/12/b44/747"
+                }
+            },
+            {
+                "name": "Francois Chaubard, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/francois-chaubard/48/694/a1"
+                }
+            }
+        ],
+        "company_url": "http://www.focal.systems",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/focal-systems"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/daily",
+        "company_name": "Daily",
+        "founded_year": "2016",
+        "team_size": "62",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "OPEN-SOURCE",
+            "AI",
+            "AI-ASSISTANT",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/927c390a496a781ceefe9112931064f3f4b058ea.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://daily.co",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/dailyco/",
+            "Twitter account": "https://twitter.com/trydaily",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/pluot",
+            "Github profile": "https://github.com/daily-co"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/petcube",
+        "company_name": "Petcube",
+        "founded_year": "2012",
+        "team_size": "51",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "HARDWARE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4465bafb8a4cbc6c32c43f81430c3a0b42fecf0f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Andrey Klen, Founder/Chief Design Officer",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/_klen",
+                    "LinkedIn profile": "https://www.linkedin.com/in/andreyklen"
+                }
+            },
+            {
+                "name": "Alex (Sasha) Neskin, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/alex-neskin/15/244/155"
+                }
+            },
+            {
+                "name": "Yaroslav Azhnyuk, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/YaroslavAzhnyuk"
+                }
+            }
+        ],
+        "company_url": "http://petcube.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/petcube",
+            "Twitter account": "https://twitter.com/petcube",
+            "Facebook profile": "https://www.facebook.com/petcube.inc/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/petcube"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/outschool",
+        "company_name": "Outschool",
+        "founded_year": "2015",
+        "team_size": "107",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "EDUCATION",
+            "MARKETPLACE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d4f5bc63953a4887b889e74645b81f6aa339942.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://outschool.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/outschool/",
+            "Twitter account": "https://twitter.com/outschool",
+            "Facebook profile": "https://www.facebook.com/outschool/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/outschool"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mason",
+        "company_name": "Mason",
+        "founded_year": "2015",
+        "team_size": "65",
+        "location": "Seattle, WA",
+        "tags": [
+            "W16",
+            "HARDWARE",
+            "SAAS",
+            "LOGISTICS",
+            "SEATTLE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70881ad94c495ff9a1501555a31b61ee9ba0c769.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jim Xiao, Founder/President",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jimxmeter",
+                    "LinkedIn profile": "https://www.linkedin.com/in/jimxiao"
+                }
+            }
+        ],
+        "company_url": "http://www.bymason.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/mason-america/",
+            "Twitter account": "https://twitter.com/buildwithMason",
+            "Facebook profile": "https://www.facebook.com/buildwithmason/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mason"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/magicbus",
+        "company_name": "MagicBus",
+        "founded_year": "",
+        "team_size": "18",
+        "location": "Los Angeles, CA",
+        "tags": [
+            "W16",
+            "TRANSPORTATION",
+            "LOS ANGELES",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/42c5e78689fec00c14ce2b4bb21977a7d3dbc702.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.magicbus.io",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/magicbus"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/tovala",
+        "company_name": "Tovala",
+        "founded_year": "2015",
+        "team_size": "375",
+        "location": "Chicago, IL",
+        "tags": [
+            "W16",
+            "FOOD-&-BEVERAGE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/247ac2d1345ad129934e37ac634a887b3dd3edf1.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "David Rabie, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/davidrabie/en"
+                }
+            },
+            {
+                "name": "Bryan Wilcox, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/bryanwilcox"
+                }
+            }
+        ],
+        "company_url": "http://www.tovala.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/tovalafood",
+            "Facebook profile": "https://www.facebook.com/tovalafood/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/tovala",
+            "Github profile": "https://github.com/tovala"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/isono-health",
+        "company_name": "iSono Health",
+        "founded_year": "2016",
+        "team_size": "9",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "CONSUMER-HEALTH-SERVICES",
+            "MEDICAL-DEVICES",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d92dab4a543fbdafaf35d8ee128bd09f103d392c.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.isonohealth.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/isono-health/",
+            "Twitter account": "https://twitter.com/isonohealth",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/isono-health"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/getaccept",
+        "company_name": "GetAccept",
+        "founded_year": "2016",
+        "team_size": "200",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DOCUMENTS",
+            "SAAS",
+            "PRODUCTIVITY",
+            "SALES",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ab0099ae34e6606159dad752edf7880c52ae235b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jonas Blanck, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jonasblanck/"
+                }
+            },
+            {
+                "name": "Mathias Thulin, Founder/Executive Partner",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/mathiasthulin",
+                    "LinkedIn profile": "https://www.linkedin.com/in/mathiasthulin/"
+                }
+            },
+            {
+                "name": "Carl Carell, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://se.linkedin.com/in/carlcarell"
+                }
+            },
+            {
+                "name": "Samir Smajic, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/samirsmajic"
+                }
+            }
+        ],
+        "company_url": "https://www.getaccept.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/getaccept",
+            "Twitter account": "https://twitter.com/getaccept",
+            "Facebook profile": "https://www.facebook.com/getaccept/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/getaccept",
+            "Github profile": "https://github.com/getaccept"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/chatfuel",
+        "company_name": "Chatfuel",
+        "founded_year": "",
+        "team_size": "53",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "MESSAGING",
+            "CHATBOTS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5fd8bcf8d9a9b759b820215a29ca5d614328aac4.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://chatfuel.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/chatfuel",
+            "Facebook profile": "https://www.facebook.com/chatfuel",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/chatfuel",
+            "Github profile": "https://github.com/chatfuel"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/yardbook",
+        "company_name": "Yardbook",
+        "founded_year": "",
+        "team_size": "",
+        "location": "San Mateo, CA",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e0abb3ad3f79aedaf3fc3be14e0dfb8e86dd36cf.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.yardbook.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/yardbook"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/stealth-worker",
+        "company_name": "Stealth Worker",
+        "founded_year": "2015",
+        "team_size": "5",
+        "location": "Menlo Park, CA",
+        "tags": [
+            "W16",
+            "COMPLIANCE",
+            "PRIVACY",
+            "MENLO PARK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f3a6dd3a9eb972ed76c351911a07f4bc57b6bba3.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.stealthworker.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/stealthworker"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/deepgram",
+        "company_name": "Deepgram",
+        "founded_year": "2015",
+        "team_size": "115",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "AI-ENHANCED-LEARNING",
+            "ARTIFICIAL-INTELLIGENCE",
+            "API",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e8d9b89a7e8039b79a0d0a37b71313e724036e55.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Scott Stephenson, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/deepgramscott",
+                    "LinkedIn profile": "https://www.linkedin.com/profile/view?id=AAMAABp1p9YBj-vzJ-6PnwBthOxU-SSancWwG5w"
+                }
+            }
+        ],
+        "company_url": "https://www.deepgram.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/deepgram",
+            "Twitter account": "https://www.twitter.com/DeepgramAI",
+            "Facebook profile": "https://www.facebook.com/deepgram",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/deepgram",
+            "Github profile": "https://github.com/deepgram"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/soundboks",
+        "company_name": "SOUNDBOKS",
+        "founded_year": "",
+        "team_size": "50",
+        "location": "Copenhagen, Denmark",
+        "tags": [
+            "W16",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4d31b409b1f0367d1d4bc6d8614148b73cc4b59.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jesper Theil Thomsen, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/profile/view?id=AAIAABVMXEgBw5e16NKx-jQOYprAiCu8I34aBw8&trk=nav_responsive_tab_profile_pic"
+                }
+            },
+            {
+                "name": "Christoffer Nyvold, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://dk.linkedin.com/pub/christoffer-nyvold/101/84a/b38"
+                }
+            }
+        ],
+        "company_url": "http://soundboks.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/soundboks/",
+            "Twitter account": "https://twitter.com/SOUNDBOKS",
+            "Facebook profile": "https://www.facebook.com/SOUNDBOKS/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sound-boks",
+            "Github profile": "https://github.com/SOUNDBOKS"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/lattice",
+        "company_name": "Lattice",
+        "founded_year": "2015",
+        "team_size": "540",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "HR-TECH",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a3bbe5d7f8ca797e1e542c827ac00dda238b0b81.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Eric Koslow",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/ekosz1",
+                    "LinkedIn profile": "https://www.linkedin.com/in/erickoslow"
+                }
+            },
+            {
+                "name": "Jack Altman",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jackealtman"
+                }
+            }
+        ],
+        "company_url": "https://lattice.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/lattice-hq/",
+            "Twitter account": "https://twitter.com/latticehq",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/lattice-2"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mux",
+        "company_name": "Mux",
+        "founded_year": "2016",
+        "team_size": "95",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "VIDEO",
+            "API",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7f3a9eb63a2c18f13705cd10ff1859e90dbff5bb.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Adam Brown, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/adam-brown-7452b03a/"
+                }
+            },
+            {
+                "name": "Jon Dahl, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jondahl",
+                    "LinkedIn profile": "https://www.linkedin.com/in/zencoder"
+                }
+            },
+            {
+                "name": "Steve Heffernan, Founder/Head of Product",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/heff",
+                    "LinkedIn profile": "https://www.linkedin.com/in/heffernan"
+                }
+            },
+            {
+                "name": "Matthew McClure, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/matt_mcclure",
+                    "LinkedIn profile": "https://www.linkedin.com/profile/view?id=AAIAAAJfgWIBGxc9zShLz4cBthEtfFkCOgyYI78"
+                }
+            }
+        ],
+        "company_url": "http://mux.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/mux/",
+            "Twitter account": "https://twitter.com/muxhq",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mux-2",
+            "Github profile": "https://github.com/muxinc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/amberbox-gunshot-detection",
+        "company_name": "AmberBox Gunshot Detection",
+        "founded_year": "2015",
+        "team_size": "",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SECURITY",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4520c6bfa42649fe08afe6ca716089765076d7c3.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "James Popper, Founder/CEO",
+                "social_links": {}
+            }
+        ],
+        "company_url": "https://amberbox.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/amberbox"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/qvin",
+        "company_name": "Qvin",
+        "founded_year": "2014",
+        "team_size": "30",
+        "location": "Menlo Park, CA",
+        "tags": [
+            "W16",
+            "AI-POWERED-DRUG-DISCOVERY",
+            "CONSUMER-HEALTH-SERVICES",
+            "TELEMEDICINE",
+            "MENLO PARK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/98ad1729e40efda7a73fdca5b3a5d90c3364692d.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://qvin.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/qvin/",
+            "Twitter account": "https://twitter.com/weareqvin/",
+            "Facebook profile": "https://www.facebook.com/WeAreQvin"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/astranis",
+        "company_name": "Astranis",
+        "founded_year": "",
+        "team_size": "400",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SPACE-EXPLORATION",
+            "SATELLITES",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a112fc4219f2a5bab3ad0bf6a5c0be6feceee94.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "John Gedmark, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/gedmark",
+                    "LinkedIn profile": "https://www.linkedin.com/in/johngedmark"
+                }
+            },
+            {
+                "name": "Ryan McLinko, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mclinkor"
+                }
+            }
+        ],
+        "company_url": "http://www.astranis.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/astranis/",
+            "Twitter account": "https://twitter.com/Astranis",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/astranis"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/bonsai",
+        "company_name": "Bonsai",
+        "founded_year": "2016",
+        "team_size": "25",
+        "location": "Boulder, CO",
+        "tags": [
+            "W16",
+            "DOCUMENTS",
+            "SAAS",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/704ac62f48316d04d9fc8a57fe4aed9e46970839.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Matt Nish, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mattnish"
+                }
+            }
+        ],
+        "company_url": "https://www.hellobonsai.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/products/bonsai/",
+            "Twitter account": "https://www.twitter.com/bonsaiinc",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/bonsai-2"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/boom",
+        "company_name": "Boom",
+        "founded_year": "2014",
+        "team_size": "227",
+        "location": "Centennial, CO",
+        "tags": [
+            "W16",
+            "TRANSPORTATION",
+            "AEROSPACE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/99fad830d694e292b87e0628e50c052c9f87cf86.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://boomsupersonic.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/boom-technology-inc./",
+            "Twitter account": "https://twitter.com/boomaero",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/boom-technology"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/relativity-space",
+        "company_name": "Relativity Space",
+        "founded_year": "2016",
+        "team_size": "1000",
+        "location": "Los Angeles, CA",
+        "tags": [
+            "W16",
+            "MACHINE-LEARNING",
+            "SPACE-EXPLORATION",
+            "ROCKETRY",
+            "3D-PRINTING",
+            "MANUFACTURING",
+            "LOS ANGELES",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/69fc3eaa7d024cb1636c3fb74c1b9ff45b63ca30.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://relativityspace.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/relativity/",
+            "Twitter account": "https://twitter.com/relativityspace",
+            "Facebook profile": "https://www.facebook.com/relativityspace/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/relativity-space",
+            "Github profile": "https://github.com/RelativitySpace"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sendbird",
+        "company_name": "Sendbird",
+        "founded_year": "2013",
+        "team_size": "300",
+        "location": "San Mateo, CA",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "B2B",
+            "MESSAGING",
+            "ENTERPRISE",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdd426bda9ef275c28e96ced0d2eee0559bcf773.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Brandon Jeon, Founder/Head of Trust and Safety",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/brandonjeon/"
+                }
+            },
+            {
+                "name": "John S. Kim, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/doshkim",
+                    "LinkedIn profile": "https://www.linkedin.com/in/doshkim"
+                }
+            },
+            {
+                "name": "Harry Kim, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ysharrykim"
+                }
+            }
+        ],
+        "company_url": "https://sendbird.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/sendbird",
+            "Twitter account": "https://twitter.com/sendbird",
+            "Facebook profile": "https://www.facebook.com/sendbird",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sendbird",
+            "Github profile": "https://github.com/sendbird"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/wakie",
+        "company_name": "Wakie",
+        "founded_year": "2014",
+        "team_size": "10",
+        "location": "Menlo Park, CA",
+        "tags": [
+            "W16",
+            "MENTAL-HEALTH-TECH",
+            "COMMUNITY",
+            "SOCIAL-MEDIA",
+            "MENLO PARK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e6b635a2e64b61418a8a3e7b739c3780c419c5f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Grachik Adzhamian, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/hrachik"
+                }
+            }
+        ],
+        "company_url": "http://www.wakie.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/wakie/about/",
+            "Twitter account": "https://twitter.com/wakieapp",
+            "Facebook profile": "https://www.facebook.com/WakieApp/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/wakie-budist"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/fightcamp",
+        "company_name": "FightCamp",
+        "founded_year": "2014",
+        "team_size": "64",
+        "location": "Newport Beach, CA",
+        "tags": [
+            "W16",
+            "HARDWARE",
+            "FITNESS",
+            "GAMING",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ad4b0a44e66abd052761cca849f1d5905d25f72.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Patrick Chandler, Founder/CMO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/patrick-chandler-b53a58b7"
+                }
+            },
+            {
+                "name": "Khalil Zahar, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/khalzahar",
+                    "LinkedIn profile": "https://ca.linkedin.com/pub/khalil-zahar/63/563/981"
+                }
+            },
+            {
+                "name": "Alexandre Marcotte, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com"
+                }
+            }
+        ],
+        "company_url": "http://joinfightcamp.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/fightcamp",
+            "Twitter account": "https://twitter.com/joinfightcamp",
+            "Facebook profile": "https://www.facebook.com/fightcamp/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/hykso-2",
+            "Github profile": "https://github.com/fightcamp"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/carbic",
+        "company_name": "Carbic",
+        "founded_year": "2015",
+        "team_size": "8",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "INDUSTRIAL-WORKPLACE-SAFETY",
+            "SAAS",
+            "IOT",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/21c3986cf5375618111e8e0dd2fe8e1f0a784f09.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jed Somers",
+                "social_links": {
+                    "Twitter account": "https://www.twitter.com/jedsomers",
+                    "LinkedIn profile": "https://www.linkedin.com/in/jed-somers-1b9874a8/"
+                }
+            },
+            {
+                "name": "Jeff Garoon",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jeffgaroon"
+                }
+            }
+        ],
+        "company_url": "http://carbic.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/38081356/",
+            "Twitter account": "https://twitter.com/carbic_",
+            "Facebook profile": "https://www.facebook.com/Carbic-103284221292827/"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/netbeez",
+        "company_name": "NetBeez",
+        "founded_year": "2013",
+        "team_size": "12",
+        "location": "Pittsburgh, PA",
+        "tags": [
+            "W16",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d39f800aa2dc90e00b32e18744204e9e5186ea14.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Stefano Gridelli, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/Stefanogridelli",
+                    "LinkedIn profile": "https://www.linkedin.com/in/stefanogridelli/en"
+                }
+            },
+            {
+                "name": "Panickos Neophytou, Founder/CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/panickos",
+                    "LinkedIn profile": "http://www.linkedin.com/in/panickos/en"
+                }
+            },
+            {
+                "name": "Panos Vouzis, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/pvouzis"
+                }
+            }
+        ],
+        "company_url": "https://netbeez.net",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/2937752/",
+            "Twitter account": "https://twitter.com/NetBeez",
+            "Facebook profile": "https://facebook.com/NetBeez",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/netbeez",
+            "Github profile": "https://github.com/netbeez"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/golorry",
+        "company_name": "GoLorry",
+        "founded_year": "2015",
+        "team_size": "30",
+        "location": "Hyderabad, India",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "LOGISTICS",
+            "INDIA",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/40376bae8f7c53265c200ad111505e5a76251905.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "ZJ Lin, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/zjlin/"
+                }
+            },
+            {
+                "name": "Sanjay Mandava, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/mandava_sanjay",
+                    "LinkedIn profile": "https://www.linkedin.com/pub/sanjay-mandava/24/6aa/206"
+                }
+            },
+            {
+                "name": "J Richards, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jonathan-richards-26259bb6/"
+                }
+            }
+        ],
+        "company_url": "http://www.golorry.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/golorry",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/golorry"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gecko-robotics",
+        "company_name": "Gecko Robotics",
+        "founded_year": "2016",
+        "team_size": "230",
+        "location": "Pittsburgh, PA",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "ROBOTICS",
+            "ENERGY",
+            "BIG-DATA",
+            "DATA-ENGINEERING",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eb7bd253bc194c1e1245a6c643b86e65d530a53f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jake Loosararian, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jake-loosararian-23981350/"
+                }
+            },
+            {
+                "name": "Troy Demmer, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/profile/view?id=AAIAAAVknjQBfe-5mD0s-nYSWNXnFY_7rEl6whA&trk=nav_responsive_tab_profile"
+                }
+            }
+        ],
+        "company_url": "https://www.geckorobotics.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/geckorobotics/",
+            "Twitter account": "https://www.twitter.com/geckorobotics",
+            "Facebook profile": "https://www.facebook.com/geckorobotics",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/gecko-robotics",
+            "Github profile": "https://github.com/GeckoRobotics"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/thunkable",
+        "company_name": "Thunkable",
+        "founded_year": "2015",
+        "team_size": "40",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "DESIGN-TOOLS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/44fe9d14461cf9ef20c54977438d35f2f917c3bf.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Arun Saigal, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/aksaigal?lang=en",
+                    "LinkedIn profile": "https://www.linkedin.com/in/aksaigal"
+                }
+            },
+            {
+                "name": "WeiHua Li, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/weihua-li/14/877/62b"
+                }
+            }
+        ],
+        "company_url": "http://thunkable.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/thunkable/",
+            "Twitter account": "https://twitter.com/thunkable",
+            "Facebook profile": "https://www.facebook.com/thunkable",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/thunkable"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/apollo-io",
+        "company_name": "Apollo.io",
+        "founded_year": "2015",
+        "team_size": "40",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SALES",
+            "MARKETING",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/54eafa8eda34ea12e9105ff28b47a5c40492938a.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.apollo.io/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/apolloio/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/zenprospect",
+            "Github profile": "https://github.com/apolloio"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/salt-security",
+        "company_name": "Salt Security",
+        "founded_year": "2016",
+        "team_size": "200",
+        "location": "Palo Alto",
+        "tags": [
+            "W16",
+            "CYBERSECURITY",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ee67d3955bee952b7146cbf36150b372e91df27a.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://salt.security/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/saltsecurity",
+            "Twitter account": "https://twitter.com/SaltSecurity",
+            "Facebook profile": "https://www.facebook.com/SaltAPIProtectionInc",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/saltsecurity",
+            "Github profile": "https://github.com/SECful"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/instabug",
+        "company_name": "Instabug",
+        "founded_year": "",
+        "team_size": "190",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "B2B",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/891bf2cd461f7e0ea63438afa0048989e0e8926b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Omar Gabr, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/OKGabr",
+                    "LinkedIn profile": "https://www.linkedin.com/in/okgabr"
+                }
+            },
+            {
+                "name": "Moataz Soliman, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/msoliman3890",
+                    "LinkedIn profile": "https://eg.linkedin.com/pub/moataz-soliman/53/42/289"
+                }
+            }
+        ],
+        "company_url": "https://instabug.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/instabug/",
+            "Twitter account": "https://www.twitter.com/Instabug/",
+            "Facebook profile": "https://www.facebook.com/Instabug/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/instabug",
+            "Github profile": "https://github.com/Instabug"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/function-of-beauty",
+        "company_name": "Function of Beauty",
+        "founded_year": "2015",
+        "team_size": "300",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "BEAUTY",
+            "PERSONALIZATION",
+            "E-COMMERCE",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c69054338f0f6889ab821fc3e59d609f38cfe4e1.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.functionofbeauty.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/10877282",
+            "Twitter account": "https://twitter.com/fxofbeauty",
+            "Facebook profile": "https://facebook.com/functionofbeauty",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/function-of-beauty"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/superside",
+        "company_name": "Superside",
+        "founded_year": "2015",
+        "team_size": "750",
+        "location": "Oslo, Norway",
+        "tags": [
+            "W16",
+            "SAAS",
+            "DESIGN-TOOLS",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f97e6f72e5f0f939f199ac6282cab34c72f7945.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.superside.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/superside",
+            "Twitter account": "https://twitter.com/SupersideHQ",
+            "Facebook profile": "https://www.facebook.com/supersidehq/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/konsus"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/netomi",
+        "company_name": "Netomi",
+        "founded_year": "2015",
+        "team_size": "104",
+        "location": "San Mateo, CA",
+        "tags": [
+            "W16",
+            "DEEP-LEARNING",
+            "CUSTOMER-SERVICE",
+            "AI",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a39a790ec2d3d1805e80c70308782d153f1c2294.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://netomi.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/netomi/",
+            "Twitter account": "https://twitter.com/netomi_official",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/msg-ai",
+            "Github profile": "https://github.com/msgai"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/castle-2",
+        "company_name": "Castle",
+        "founded_year": "",
+        "team_size": "20",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "SECURITY",
+            "FRAUD-DETECTION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d7fdbafd7f8ab52a136ccd6f568c251351c96b8.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://castle.io",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/castle-intelligence",
+            "Twitter account": "https://twitter.com/Castle_IO",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/castle-2",
+            "Github profile": "https://github.com/castle"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/opentrons",
+        "company_name": "Opentrons",
+        "founded_year": "2014",
+        "team_size": "300",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "ROBOTICS",
+            "SYNTHETIC-BIOLOGY",
+            "BIOTECH",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/218a1e71ef58cf5c6cbd797a5c9a25f5b4525037.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Nicholas Wagner",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/nicholas-wagner-16b11b5"
+                }
+            },
+            {
+                "name": "Will Canine",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/will-canine-602a9266"
+                }
+            },
+            {
+                "name": "Chiu Chau",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/chiu-chau/b/297/bb2"
+                }
+            }
+        ],
+        "company_url": "http://opentrons.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/opentrons_",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/opentrons",
+            "Github profile": "https://github.com/Opentrons"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mailtime",
+        "company_name": "MailTime",
+        "founded_year": "2014",
+        "team_size": "18",
+        "location": "Hong Kong, Hong Kong",
+        "tags": [
+            "W16",
+            "PRODUCTIVITY",
+            "CONSUMER-PRODUCTS",
+            "EMAIL",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/72dc9ccfe26e8c21c74a8e2ae9b64027c599c994.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://mailtime.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mailtime"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/bus-com",
+        "company_name": "Bus.com",
+        "founded_year": "2014",
+        "team_size": "90",
+        "location": "Montreal, Canada",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "TRANSPORTATION",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b79c831c8f0d305c265f82733feafa079a2d0bc5.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.bus.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sharethebus",
+            "Github profile": "https://github.com/Bus-com"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/revl",
+        "company_name": "Revl",
+        "founded_year": "2015",
+        "team_size": "22",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "MACHINE-LEARNING",
+            "SAAS",
+            "SPORTS-TECH",
+            "B2B",
+            "VIDEO",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/22c87d9ebe7f3211cc7fc4e6b1c3691c72354478.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Eric Sanchez, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/ericsanchezcurti"
+                }
+            },
+            {
+                "name": "Bruce Pla, Founder/Chief Design Officer",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/messaging/thread/6027669874958938112"
+                }
+            },
+            {
+                "name": "Nelson Vazquez, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/nelson-vazquez/a8/36/725"
+                }
+            }
+        ],
+        "company_url": "https://revl.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/revl"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pocketsuite",
+        "company_name": "PocketSuite",
+        "founded_year": "2016",
+        "team_size": "40",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAAS",
+            "PAYMENTS",
+            "MESSAGING",
+            "SCHEDULING",
+            "CRM",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdb97ca4207ccb8346f6dd29984f5fca487812e0.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://pocketsuite.io",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/pocketsuite",
+            "Twitter account": "https://twitter.com/PocketSuite",
+            "Facebook profile": "https://www.facebook.com/PocketSuite/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/pocketsuite"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/meter-feeder",
+        "company_name": "Meter Feeder",
+        "founded_year": "2015",
+        "team_size": "4",
+        "location": "Pittsburgh, PA",
+        "tags": [
+            "W16",
+            "MACHINE-LEARNING",
+            "GOVTECH",
+            "UNMANNED-VEHICLE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/add199c01e8e38b906c80074b660ab5bf6e88b25.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jim Gibbs, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/heezo",
+                    "LinkedIn profile": "https://www.linkedin.com/pub/james-gibbs/0/8/4ab"
+                }
+            },
+            {
+                "name": "Daniel Lopretto, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/daniel-lopretto/4b/838/182"
+                }
+            }
+        ],
+        "company_url": "http://www.meterfeeder.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/meter-feeder-inc",
+            "Twitter account": "https://twitter.com/MeterFeeder",
+            "Facebook profile": "https://www.facebook.com/meterfeeder.inc",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/meterfeeder"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/inevitable-tech",
+        "company_name": "Inevitable Tech",
+        "founded_year": "2015",
+        "team_size": "80",
+        "location": "San Carlos, CA",
+        "tags": [
+            "W16",
+            "ROBOTICS",
+            "CLIMATE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a367eb3261209b49872b8ae5c4bf82df615e90a.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://inevitabletech.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/iron-ox/",
+            "Twitter account": "https://twitter.com/ironoxfarms",
+            "Facebook profile": "https://www.facebook.com/ironoxfarms",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/iron-ox",
+            "Github profile": "https://github.com/iron-ox"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gigwell",
+        "company_name": "Gigwell",
+        "founded_year": "2014",
+        "team_size": "12",
+        "location": "Los Angeles, CA",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "SAAS",
+            "ENTERTAINMENT",
+            "LOS ANGELES",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/410acaf649ddb5822f7639caa9757423b17424c5.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jeremie Habib, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jeremiehabib/"
+                }
+            },
+            {
+                "name": "Glade Luco, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/gladeluco"
+                }
+            },
+            {
+                "name": "Antonio Sierra, Founder/Vice President, Customer Success",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/antonioasierra"
+                }
+            }
+        ],
+        "company_url": "https://www.gigwell.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/gigwell",
+            "Twitter account": "https://twitter.com/gigwellofficial",
+            "Facebook profile": "https://www.facebook.com/gigwell",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/gigwell-2",
+            "Github profile": "https://github.com/gigwell"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/copia",
+        "company_name": "Copia",
+        "founded_year": "2016",
+        "team_size": "20",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAAS",
+            "B2B",
+            "FOOD-TECH",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/802cdfaf69a7d1d62bfdf8c18810860104506f05.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Komal Ahmad",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/komal_ahmad",
+                    "LinkedIn profile": "https://www.linkedin.com/in/komalahmad"
+                }
+            }
+        ],
+        "company_url": "http://www.gocopia.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/gocopia/",
+            "Twitter account": "http://www.twitter.com/gocopia",
+            "Facebook profile": "https://www.facebook.com/gocopia",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/copia-2"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/stilt",
+        "company_name": "Stilt",
+        "founded_year": "2015",
+        "team_size": "35",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "SAAS",
+            "B2B",
+            "LENDING",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e3bb4303a0c1de02bc9e18aae4dd1307b9df84a.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Priyank Singh, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/priyanksingh"
+                }
+            },
+            {
+                "name": "Rohit Mittal, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/rohitdotmittal",
+                    "LinkedIn profile": "https://www.linkedin.com/in/rohit-mittal-58a30a6/"
+                }
+            }
+        ],
+        "company_url": "http://www.stilt.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/stilt-loans",
+            "Twitter account": "https://www.twitter.com/stilt_inc",
+            "Facebook profile": "https://www.facebook.com/yourstilt",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/stilt-2"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/hingeto",
+        "company_name": "Hingeto",
+        "founded_year": "2015",
+        "team_size": "15",
+        "location": "Oakland, CA",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "B2B",
+            "E-COMMERCE",
+            "OAKLAND"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e59c2327810cab253f71704ec7dd18ea96bfc242.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Leandrew Robinson, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/leandrew-robinson-b679079"
+                }
+            },
+            {
+                "name": "Akintunde Ismail Maiyegun, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/maiyegun"
+                }
+            },
+            {
+                "name": "Yaw Owusu-Barimah, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/yawza",
+                    "LinkedIn profile": "https://www.linkedin.com/in/yawza"
+                }
+            }
+        ],
+        "company_url": "https://www.hingeto.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/hingeto"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/nova",
+        "company_name": "Nova",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "SALES",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e5b5f4f9cecde6a25ed38c833a80f9949aae6575.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.nova.ai",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/nova"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/perlara",
+        "company_name": "Perlara",
+        "founded_year": "2014",
+        "team_size": "1",
+        "location": "Oakland, CA",
+        "tags": [
+            "W16",
+            "OAKLAND",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://perlara.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/perlarapbc",
+            "Facebook profile": "https://facebook.com/perlarapbc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/urodev-medical",
+        "company_name": "UroDev Medical",
+        "founded_year": "2015",
+        "team_size": "4",
+        "location": "San Clemente, CA",
+        "tags": [
+            "W16",
+            "MEDICAL-DEVICES"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c7fb5021631c4122b74a0ad76af1b47537325bac.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Derek Herrera",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/derekherrera"
+                }
+            },
+            {
+                "name": "Zach McKinney",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/profile/view?id=AAMAAAPVReMBqUtDVGMlJiVo9OKZeKGUxM6J8rc&trk=hp-identity-photo"
+                }
+            }
+        ],
+        "company_url": "https://www.urodevmedical.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/spinal-singularity"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/devcolor",
+        "company_name": "DevColor",
+        "founded_year": "2015",
+        "team_size": "7",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "EDUCATION",
+            "COMMUNITY",
+            "DIVERSITY-&-INCLUSION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.devcolor.org/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/-dev-color/",
+            "Twitter account": "https://twitter.com/devcolororg",
+            "Facebook profile": "https://www.facebook.com/devcolor",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/dev-color",
+            "Github profile": "https://github.com/devcolor"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/redspread",
+        "company_name": "Redspread",
+        "founded_year": "2015",
+        "team_size": "0",
+        "location": "Mountain View",
+        "tags": [
+            "W16",
+            "DEVELOPER-TOOLS",
+            "MOUNTAIN VIEW"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a01298571ca94f7c910104cd6712c0623fa1a283.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Mackenzie Burnett",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/ciaomack",
+                    "LinkedIn profile": "http://linkedin.com/in/mackenzieburnett"
+                }
+            },
+            {
+                "name": "Dan Gillespie",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ethernetdan"
+                }
+            }
+        ],
+        "company_url": "http://redspread.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/redspread"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/lygos",
+        "company_name": "Lygos",
+        "founded_year": "",
+        "team_size": "55",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SYNTHETIC-BIOLOGY",
+            "CLIMATE",
+            "BIOTECHNOLOGY",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.lygos.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/lygos",
+            "Twitter account": "https://twitter.com/LygosBiotech",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/lygos"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/landed",
+        "company_name": "Landed",
+        "founded_year": "2015",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "PROPTECH",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ab8fa26571630366add5d76d46ba876b673c7b9.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jonathan Asmis, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jonathanasmis"
+                }
+            },
+            {
+                "name": "Alex Lofton, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/alexlofton",
+                    "LinkedIn profile": "http://www.linkedin.com/in/alexlofton"
+                }
+            }
+        ],
+        "company_url": "http://www.landed.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/landed-inc/",
+            "Twitter account": "https://twitter.com/landedhomes",
+            "Facebook profile": "https://www.facebook.com/landedinc",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/landed",
+            "Github profile": "https://github.com/landedhomes"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/zenysis",
+        "company_name": "Zenysis",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.zenysis.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/zenysis",
+            "Github profile": "https://github.com/Zenysis"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/emburse",
+        "company_name": "Emburse",
+        "founded_year": "",
+        "team_size": "",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a00998d6f52fb43996a86ecea5c77d7d020b9b08.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Peter Lai, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/peterjlai",
+                    "LinkedIn profile": "https://www.linkedin.com/in/peterjlai"
+                }
+            },
+            {
+                "name": "Roger Gu, Founder",
+                "social_links": {
+                    "LinkedIn profile": "linkedin.com/in/guroger"
+                }
+            }
+        ],
+        "company_url": "https://www.emburse.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/emburse"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/protonet",
+        "company_name": "Protonet",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "W16",
+            "HARDWARE",
+            "CLOUD-COMPUTING",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://protonet.info",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/protonet-gmbh/",
+            "Twitter account": "https://twitter.com/protonet",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/protonet"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/plato",
+        "company_name": "Plato",
+        "founded_year": "",
+        "team_size": "26",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fc15418039f776573a0ea610002c9231a2e1a0cb.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.platohq.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/platohq/",
+            "Twitter account": "https://twitter.com/platohq",
+            "Facebook profile": "https://www.facebook.com/platohq/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/birdly"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sanitation-and-health-rights-in-india-shri",
+        "company_name": "Sanitation and Health Rights in India (SHRI)",
+        "founded_year": "",
+        "team_size": "1",
+        "location": "India",
+        "tags": [
+            "W16",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.sanrights.org",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/shri"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pulpix",
+        "company_name": "Pulpix",
+        "founded_year": "2015",
+        "team_size": "15",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "MACHINE-LEARNING",
+            "VIDEO",
+            "NEW YORK"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8c132121b7d4ec5ea81300966ada8fd09448ac76.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sabry Otmani, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/sabryotmani",
+                    "LinkedIn profile": "https://www.linkedin.com/in/sabryotmani/"
+                }
+            },
+            {
+                "name": "Denis Vilar, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "http://fr.linkedin.com/in/denisvilar/"
+                }
+            }
+        ],
+        "company_url": "https://www.pulpix.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/pulpix"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/quilt-data",
+        "company_name": "Quilt Data",
+        "founded_year": "",
+        "team_size": "6",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "ANALYTICS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Kevin Moore, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kevinemoore"
+                }
+            },
+            {
+                "name": "Aneesh Karve, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/aneeshkarve"
+                }
+            }
+        ],
+        "company_url": "https://quiltdata.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/quiltdata",
+            "Facebook profile": "https://www.facebook.com/quiltdata",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/quilt-data",
+            "Github profile": "https://github.com/quiltdata"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/luminist-labs",
+        "company_name": "Luminist Labs",
+        "founded_year": "2015",
+        "team_size": "2",
+        "location": "Newark, CA",
+        "tags": [
+            "W16",
+            "MEDICAL-DEVICES",
+            "DIAGNOSTICS",
+            "GENOMICS"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b2a824d7b13f5cb87d6f2567fb9307570a0c1d46.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Storm Stillman, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/StormStillman",
+                    "LinkedIn profile": "https://www.linkedin.com/in/stormstillman"
+                }
+            }
+        ],
+        "company_url": "http://luministlabs.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/luminist"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mrelief",
+        "company_name": "mRelief",
+        "founded_year": "2014",
+        "team_size": "12",
+        "location": "Chicago, IL",
+        "tags": [
+            "W16",
+            "NONPROFIT",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.mrelief.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mrelief"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/histowiz",
+        "company_name": "HistoWiz",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "NY",
+        "tags": [
+            "W16",
+            "BIOTECH",
+            "AI",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://histowiz.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/histowiz/",
+            "Twitter account": "https://twitter.com/histowiz",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/histowiz",
+            "Github profile": "https://github.com/histowiz"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/lynks",
+        "company_name": "Lynks",
+        "founded_year": "",
+        "team_size": "40",
+        "location": "Egypt",
+        "tags": [
+            "W16",
+            "E-COMMERCE",
+            "EMERGING-MARKETS",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.lynks.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/lynks"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/alphaflow",
+        "company_name": "AlphaFlow",
+        "founded_year": "2015",
+        "team_size": "26",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "REAL-ESTATE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9696737d779bc1482d4e992936d055d788610f1a.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.alphaflow.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/alphaflow/",
+            "Twitter account": "https://twitter.com/AlphaFlow?lang=en",
+            "Facebook profile": "https://www.facebook.com/alphaflowinc/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/alphaflow",
+            "Github profile": "https://github.com/AlphaFlow"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/vinebox",
+        "company_name": "VINEBOX (Usual Beverage Co.)",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fb5095e9e30868b58246a57d70171157e6505a4b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Matthew Dukes, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/wmatthewdukes"
+                }
+            }
+        ],
+        "company_url": "http://www.getvinebox.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/vinebox/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/vinebox"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pave",
+        "company_name": "Pave",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Kitchener, Canada",
+        "tags": [
+            "W16",
+            "ANALYTICS",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.paveai.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/paveiq"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/modal",
+        "company_name": "Modal",
+        "founded_year": "",
+        "team_size": "18",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "AUTO-COMMERCE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c38f4fd804cb3af2c6c3f749644efdff401f0a2c.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://modalup.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/drive-motors"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/streamup",
+        "company_name": "Streamup",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Santa Monica, CA",
+        "tags": [
+            "W16",
+            "SOCIAL-MEDIA",
+            "LIVE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9724677f33a5d5a8b626edc323d46e921d57875c.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Kyle Michelson, Founder",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/kylemichelson"
+                }
+            }
+        ],
+        "company_url": "https://streamup.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/streamup/",
+            "Twitter account": "https://twitter.com/streamup",
+            "Facebook profile": "https://www.facebook.com/streamup/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/streamup"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/strongintro",
+        "company_name": "StrongIntro",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "RECRUITING",
+            "TALENT-ACQUISITION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4b83e039187d59c0375134961a06d242460e9172.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Fouad Matin, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/fouadmatin",
+                    "LinkedIn profile": "https://linkedin.com/in/fouadmatin"
+                }
+            }
+        ],
+        "company_url": "https://strongintro.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/strongintro"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pathmind",
+        "company_name": "Pathmind",
+        "founded_year": "2014",
+        "team_size": "15",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "REINFORCEMENT-LEARNING",
+            "WAREHOUSE-MANAGEMENT-TECH",
+            "SUPPLY-CHAIN",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6f25b083ae5853d0fb4e5eee2ce6794565ac6775.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Chris Nicholson, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://www.twitter.com/chrisvnicholson/",
+                    "LinkedIn profile": "http://www.linkedin.com/in/chrisvnicholson/"
+                }
+            }
+        ],
+        "company_url": "https://pathmind.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/37560379/",
+            "Twitter account": "https://twitter.com/pathmindAI",
+            "Facebook profile": "https://www.facebook.com/PathMind-113337653394088/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/skymind"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kisan-network",
+        "company_name": "Kisan Network",
+        "founded_year": "2016",
+        "team_size": "75",
+        "location": "Gurugram, India",
+        "tags": [
+            "W16",
+            "SUPPLY-CHAIN",
+            "AGRICULTURE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/db2008b79867d33375690a57e489390ac2d6b52f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sanjay Kumar Agarwalla, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://in.linkedin.com/in/sanjaykagarwalla"
+                }
+            },
+            {
+                "name": "Aditya Agarwalla, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/adi_agarwalla",
+                    "LinkedIn profile": "https://linkedin.com/in/adiagarwalla"
+                }
+            }
+        ],
+        "company_url": "https://www.kisannetwork.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/kisan-network",
+            "Twitter account": "https://www.twitter.com/kisannetwork",
+            "Facebook profile": "https://www.facebook.com/kisannetwork",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kisan-network"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/deako",
+        "company_name": "Deako",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Seattle, WA",
+        "tags": [
+            "W16",
+            "IOT",
+            "HOME-AUTOMATION",
+            "SEATTLE",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.deako.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/deako",
+            "Github profile": "https://github.com/DeakoLights"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/georgette-packaging",
+        "company_name": "Georgette Packaging",
+        "founded_year": "2013",
+        "team_size": "15",
+        "location": "Kitchener, Canada",
+        "tags": [
+            "W16",
+            "LOGISTICS",
+            "CLIMATE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1929026faf3c4064b3cb414a5ef1d62b2ee8021b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sarah Landstreet, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/misslandstreet",
+                    "LinkedIn profile": "https://ca.linkedin.com/pub/sarah-landstreet/11/667/a59"
+                }
+            }
+        ],
+        "company_url": "http://www.georgettepackaging.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/georgette-packaging-inc-/",
+            "Twitter account": "https://twitter.com/georgettepack",
+            "Facebook profile": "https://www.facebook.com/GeorgettePackaging/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/georgette-packaging"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/chillabit",
+        "company_name": "Chillabit",
+        "founded_year": "",
+        "team_size": "3",
+        "location": "Palo Alto",
+        "tags": [
+            "W16",
+            "SOCIAL",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Sabby Choudhary",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/sabbychoudhary/"
+                }
+            },
+            {
+                "name": "Kyle Kaiser",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/kkaiser0"
+                }
+            },
+            {
+                "name": "Tamara Bain",
+                "social_links": {
+                    "LinkedIn profile": "https://ca.linkedin.com/pub/tamara-bain/41/19b/70"
+                }
+            },
+            {
+                "name": "Mark Galloway",
+                "social_links": {
+                    "LinkedIn profile": "http://ca.linkedin.com/in/mgallowa"
+                }
+            },
+            {
+                "name": "Benjamin Lavin",
+                "social_links": {
+                    "LinkedIn profile": "https://ca.linkedin.com/in/benjaminlavin"
+                }
+            }
+        ],
+        "company_url": "https://chillabit.io",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/cover",
+        "company_name": "Cover",
+        "founded_year": "2016",
+        "team_size": "50",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "INSURANCE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8d5863fab7cb599616673d64029382203c934c08.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://cover.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/cover",
+            "Facebook profile": "https://www.facebook.com/cover",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/cover-5"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kip-health",
+        "company_name": "Kip Health",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "MENTAL-HEALTH-TECH",
+            "DIGITAL-HEALTH",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Ti Zhao, Founder",
+                "social_links": {
+                    "LinkedIn profile": "http://linkedin.com/in/tizhao"
+                }
+            }
+        ],
+        "company_url": "https://www.hellokip.com/",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/hellokip",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kip-labs"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/flexengage",
+        "company_name": "flexEngage",
+        "founded_year": "",
+        "team_size": "25",
+        "location": "Orlando, FL",
+        "tags": [
+            "W16",
+            "ANALYTICS",
+            "RETAIL"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.flexengage.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/flexengage",
+            "Facebook profile": "https://www.facebook.com/flexEngage",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/flexreceipts"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/interstate-analytics",
+        "company_name": "Interstate Analytics",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "ANALYTICS",
+            "MARKETING",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/67d327f7785e9bbcb484e75cc849ae5a34c64da2.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jamie Quint",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jamiequint",
+                    "LinkedIn profile": "http://linkedin.com/in/jamiequint"
+                }
+            },
+            {
+                "name": "Amir Ghazvinian",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/amir-ghazvinian/86/143/286"
+                }
+            }
+        ],
+        "company_url": "http://interstateanalytics.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/interstate-analytics"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/castle",
+        "company_name": "Castle",
+        "founded_year": "2014",
+        "team_size": "11",
+        "location": "Detroit, MI",
+        "tags": [
+            "W16",
+            "REAL-ESTATE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/50f2343fc9ce8e375633fcca24cbcbfc55d9464f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Tim Dingman",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/timdingmanlive",
+                    "LinkedIn profile": "https://linkedin.com/in/timdingman"
+                }
+            },
+            {
+                "name": "Max Nussenbaum",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/maxnuss",
+                    "LinkedIn profile": "http://linkedin.com/in/maxnuss"
+                }
+            },
+            {
+                "name": "Scott Lowe",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/lowe0292"
+                }
+            }
+        ],
+        "company_url": "http://entercastle.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/castle"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/constructvr",
+        "company_name": "ConstructVR",
+        "founded_year": "2015",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "AR",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/81778e15922c64d63f0d80ef4134c516cc53fb73.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jaime Bueza",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jbueza",
+                    "LinkedIn profile": "https://ca.linkedin.com/in/jbueza"
+                }
+            },
+            {
+                "name": "Chris Tan",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/chrismtan/"
+                }
+            }
+        ],
+        "company_url": "https://www.constructvr.io",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/constructvr"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/goodybag",
+        "company_name": "Goodybag",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Austin, TX",
+        "tags": [
+            "W16",
+            "FOOD-TECH",
+            "AUSTIN"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Jay Panchal, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/jay-panchal/13/2b2/25a"
+                }
+            },
+            {
+                "name": "Om Panchal, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/om-panchal/33/213/640"
+                }
+            },
+            {
+                "name": "Jag Santha, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/jag-santha/2a/b12/682"
+                }
+            }
+        ],
+        "company_url": "http://goodybag.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/goodybag"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/unima",
+        "company_name": "Unima",
+        "founded_year": "2015",
+        "team_size": "26",
+        "location": "Zapopan, Mexico",
+        "tags": [
+            "W16",
+            "HEALTH-TECH",
+            "BIOTECH",
+            "DIAGNOSTICS",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6c2c011e4d98e07f268e9d5fe993f2508a4a51e7.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Rodrigo Nuno, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://mx.linkedin.com/pub/rodrigo-nu%C3%B1o/a/570/585"
+                }
+            },
+            {
+                "name": "Maria Laura Mendoza, Founder/CPO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/lauramendoza"
+                }
+            },
+            {
+                "name": "Jose Luis Nuno, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/joseluisnuno",
+                    "LinkedIn profile": "https://www.linkedin.com/in/joseluisnuno"
+                }
+            },
+            {
+                "name": "Alejandro Nu\u00f1o Ayala, Founder/R&D Director",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/alejandronuno/"
+                }
+            }
+        ],
+        "company_url": "http://www.unimadx.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/Unimadx",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/unima"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mineralsoft",
+        "company_name": "MineralSoft",
+        "founded_year": "",
+        "team_size": "35",
+        "location": "Austin, TX",
+        "tags": [
+            "W16",
+            "ANALYTICS",
+            "ENERGY",
+            "AUSTIN"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://mineralsoft.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mineralsoft"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/innovein",
+        "company_name": "InnoVein",
+        "founded_year": "2015",
+        "team_size": "5",
+        "location": "San Carlos, CA",
+        "tags": [
+            "W16",
+            "MEDICAL-DEVICES",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c016740aa024bde1b822a68eb9c3bd126cc85975.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://Innoveinmedical.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/innovein"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/lendedu",
+        "company_name": "LendEDU",
+        "founded_year": "",
+        "team_size": "10",
+        "location": "Hoboken, NJ",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "MARKETPLACE"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Matthew Lenhard",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/matthew-lenhard/37/bb0/ba/en"
+                }
+            },
+            {
+                "name": "Nate Matherson",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/natematherson",
+                    "LinkedIn profile": "https://www.linkedin.com/in/natematherson"
+                }
+            }
+        ],
+        "company_url": "https://lendedu.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/shoptutors"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/uplabs",
+        "company_name": "UpLabs",
+        "founded_year": "2016",
+        "team_size": "1",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "COMMUNITY",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f1f8b11558dca2b1d7e6fded4f473315eb25268f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Guillemette Dejean",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/Geekemette",
+                    "LinkedIn profile": "https://www.linkedin.com/in/guillemette-dejean-a3400474/"
+                }
+            },
+            {
+                "name": "Matt Delac",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/matthieuaussaguel"
+                }
+            }
+        ],
+        "company_url": "https://www.uplabs.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/uplabs",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/materialup"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/able-health",
+        "company_name": "Able Health",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://ablehealth.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/able-health"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/loop-genomics",
+        "company_name": "Loop Genomics",
+        "founded_year": "2016",
+        "team_size": "7",
+        "location": "San Jose, CA",
+        "tags": [
+            "W16",
+            "BIOTECH",
+            "SAN JOSE"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.loopgenomics.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/loop-genomics"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/algoriz",
+        "company_name": "Algoriz",
+        "founded_year": "",
+        "team_size": "4",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "ARTIFICIAL-INTELLIGENCE",
+            "FINANCE",
+            "TRADING",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.algoriz.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/algoriz"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/magic-instruments",
+        "company_name": "Magic Instruments",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Los Angeles, CA",
+        "tags": [
+            "W16",
+            "MUSIC",
+            "LOS ANGELES",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Brian Fan",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/brianfan/en"
+                }
+            },
+            {
+                "name": "Andrew Song",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/asong408",
+                    "LinkedIn profile": "http://www.linkedin.com/in/ajsong"
+                }
+            },
+            {
+                "name": "Mark Liebman",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/markliebman"
+                }
+            }
+        ],
+        "company_url": "https://",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/magic-instruments"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/compgun",
+        "company_name": "Compgun",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SALES",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Jake Seip",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jakeseip?lang=en",
+                    "LinkedIn profile": "http://linkedin.com/in/jakeseip"
+                }
+            },
+            {
+                "name": "Tim Sze",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/szetim/"
+                }
+            }
+        ],
+        "company_url": "http://compgun.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/compgun"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/physiohealth",
+        "company_name": "PhysioHealth",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "W16",
+            "HEALTH-TECH",
+            "INSURANCE",
+            "HEALTH-&-WELLNESS",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.physioh.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/physiohealth"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/index-2",
+        "company_name": "Index",
+        "founded_year": "",
+        "team_size": "5",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "NETWORKS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.index.io",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/unnyhog",
+        "company_name": "Unnyhog",
+        "founded_year": "",
+        "team_size": "1",
+        "location": "Los Angeles, CA",
+        "tags": [
+            "W16",
+            "ENTERTAINMENT",
+            "GAMING",
+            "LOS ANGELES",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://unnyhog.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/unnyhog"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/silver",
+        "company_name": "Silver",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "Cupertino, CA",
+        "tags": [
+            "W16",
+            "HARD-TECH",
+            "DIAGNOSTICS",
+            "NANOTECHNOLOGY",
+            "CUPERTINO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Victor Ng, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/vicngtor"
+                }
+            },
+            {
+                "name": "Peter Xian, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/pub/peter-xian/1a/830/80b"
+                }
+            }
+        ],
+        "company_url": "http://www.scansilver.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/silver"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/restocks",
+        "company_name": "Restocks",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "E-COMMERCE",
+            "FASHION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://restocks.io",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/restocks"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/real-artists",
+        "company_name": "Real Artists",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "W16",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.realartists.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/shiprealartists",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/real-artists"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/envyl",
+        "company_name": "Envyl",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "NY",
+        "tags": [
+            "W16",
+            "DELIVERY",
+            "E-COMMERCE",
+            "LOGISTICS",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Perry Ogwuche, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/perry-ogwuche-0054b44b/"
+                }
+            },
+            {
+                "name": "Tochukwu Okoro, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/tcokoro"
+                }
+            }
+        ],
+        "company_url": "http://www.envyl.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/shypmate"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/elucify",
+        "company_name": "Elucify",
+        "founded_year": "2015",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SAAS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Mihir Deo, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mihirdeo"
+                }
+            },
+            {
+                "name": "Gerald Fong, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/geraldfong"
+                }
+            },
+            {
+                "name": "Naveen Krishnamurthi, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/naveen401"
+                }
+            }
+        ],
+        "company_url": "https://getelucify.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/elucify"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/trac",
+        "company_name": "TRAC",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Chicago, IL",
+        "tags": [
+            "W16",
+            "SPORTS-TECH",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.tracchicago.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/trac"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/anchor-health",
+        "company_name": "Anchor Health",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "HEALTH-TECH",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://anchorhealth.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/poppy",
+        "company_name": "Poppy",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Seattle, WA",
+        "tags": [
+            "W16",
+            "SEATTLE",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Avni Patel Thompson",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/APatelThompson",
+                    "LinkedIn profile": "https://www.linkedin.com/in/apatelthompson/en"
+                }
+            },
+            {
+                "name": "Richerd Chan",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/richerd"
+                }
+            }
+        ],
+        "company_url": "http://meetpoppy.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/meetpoppy",
+            "Facebook profile": "https://www.facebook.com/meetpoppy/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/poppy-3"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/patchwork-security",
+        "company_name": "Patchwork Security",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Oakland, CA",
+        "tags": [
+            "W16",
+            "SECURITY",
+            "OAKLAND",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://patchworksecurity.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/patchwork-security"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/start-closing",
+        "company_name": "Start Closing",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Coffeyville, KS",
+        "tags": [
+            "W16",
+            "INSURANCE",
+            "HOME-SERVICES",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.startclosing.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/startclosing"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/monthli",
+        "company_name": "Monthli",
+        "founded_year": "",
+        "team_size": "4",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "MARKETPLACE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.monthli.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/monthli"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/open-motors",
+        "company_name": "Open Motors",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Palo Alto",
+        "tags": [
+            "W16",
+            "ELECTRIC-VEHICLES",
+            "SELF-DRIVING-VEHICLES",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Tin Hang Liu, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/tinhangliu",
+                    "LinkedIn profile": "https://linkedin.com/in/tinhangliu"
+                }
+            },
+            {
+                "name": "Yuki Liu, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://it.linkedin.com/in/yukiliu"
+                }
+            }
+        ],
+        "company_url": "https://www.openmotors.co",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/osvehicle"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/enflux",
+        "company_name": "Enflux",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W16",
+            "SMART-CLOTHING",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://getenflux.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/worldcover",
+        "company_name": "WorldCover",
+        "founded_year": "",
+        "team_size": "20",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "FINTECH",
+            "INSURANCE",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.worldcovr.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/worldcovr",
+            "Facebook profile": "https://www.facebook.com/worldcovr",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/worldcover"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/dosedr",
+        "company_name": "DoseDr",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Menlo Park, CA",
+        "tags": [
+            "W16",
+            "HEALTH-TECH",
+            "MENLO PARK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Marlon Castillo",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/marlonscastillo"
+                }
+            },
+            {
+                "name": "John Sanders",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/johnlsanders"
+                }
+            },
+            {
+                "name": "Dustyn Williams",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/dustynwilliams"
+                }
+            }
+        ],
+        "company_url": "https://www.dosedr.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/dosedr"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/toymail",
+        "company_name": "Toymail",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "New York",
+        "tags": [
+            "W16",
+            "IOT",
+            "KIDS",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.toymail.co",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/toymail-co-"
+        }
+    }
+]

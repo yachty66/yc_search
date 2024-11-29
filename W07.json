@@ -1,0 +1,403 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/twitch",
+        "company_name": "Twitch",
+        "founded_year": "2006",
+        "team_size": "2000",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "COMMUNITY",
+            "GAMING",
+            "SOCIAL-MEDIA",
+            "VIDEO",
+            "SOCIAL-NETWORK",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d0e24465d91469fa05da337659e25131f5295e3d.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Emmett Shear, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/eshear",
+                    "LinkedIn profile": "https://www.linkedin.com/in/emmettshear"
+                }
+            },
+            {
+                "name": "Justin Kan",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/justinkan",
+                    "LinkedIn profile": "https://www.linkedin.com/in/justinkan"
+                }
+            },
+            {
+                "name": "Michael Seibel",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/mwseibel",
+                    "LinkedIn profile": "https://linkedin.com/in/mwseibel"
+                }
+            },
+            {
+                "name": "Kyle Vogt",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kylevogt/"
+                }
+            }
+        ],
+        "company_url": "http://twitch.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/twitch-tv/",
+            "Twitter account": "https://twitter.com/twitch",
+            "Facebook profile": "https://www.facebook.com/Twitch/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/twitch"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/weebly",
+        "company_name": "Weebly",
+        "founded_year": "",
+        "team_size": "201",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1f9ac2ce5b5a93035fbbf9775d29c02d9a37dd6f.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "David Rusenko, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "http://twitter.com/drusenko",
+                    "LinkedIn profile": "https://www.linkedin.com/in/drusenko"
+                }
+            },
+            {
+                "name": "Chris Fanini, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/chrisfanini/"
+                }
+            },
+            {
+                "name": "Dan Veltri, Founder/CPO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/harish-p-agarwal"
+                }
+            }
+        ],
+        "company_url": "http://weebly.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/weebly/",
+            "Twitter account": "https://twitter.com/weebly",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/weebly"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/buxfer",
+        "company_name": "Buxfer",
+        "founded_year": "2006",
+        "team_size": "1",
+        "location": "Santa Clara, CA",
+        "tags": [
+            "W07",
+            "FINTECH",
+            "SANTA CLARA",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3cdaac815b43bc63142ff763d4ba39ec6d9553b9.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Amit Manjhi",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/amitmanjhi",
+                    "LinkedIn profile": "https://www.linkedin.com/in/amitmanjhi/"
+                }
+            },
+            {
+                "name": "Shashank Pandit",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/shashankpandit"
+                }
+            }
+        ],
+        "company_url": "https://www.buxfer.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/buxfer",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/buxfer"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/heysan",
+        "company_name": "Heysan",
+        "founded_year": "2007",
+        "team_size": "0",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "COMMUNITY",
+            "MESSAGING",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bf698725d330ade4e0d1868371aa09cdbc9aa0c6.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Gustaf Alstromer",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/gustaf",
+                    "LinkedIn profile": "https://www.linkedin.com/in/gustafalstromer/"
+                }
+            },
+            {
+                "name": "P\u00e4r Lindhe",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/parlindhe"
+                }
+            },
+            {
+                "name": "Marie Brattberg",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mariebrattberg/"
+                }
+            },
+            {
+                "name": "Michael Ossareh",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/ossareh/"
+                }
+            }
+        ],
+        "company_url": "http://heysan.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/heysan",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/heysan"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/virtualmin",
+        "company_name": "Virtualmin",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Mountain View",
+        "tags": [
+            "W07",
+            "MOUNTAIN VIEW",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b1f730a4d38e181f1796f322bba3122ac4dbcab7.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://virtualmin.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/virtualmin",
+            "Github profile": "https://github.com/virtualmin"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/zenter",
+        "company_name": "Zenter",
+        "founded_year": "2007",
+        "team_size": "2",
+        "location": "Mountain View",
+        "tags": [
+            "W07",
+            "DOCUMENTS",
+            "SAAS",
+            "B2B",
+            "PRODUCTIVITY",
+            "MOUNTAIN VIEW"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa9c0925aff653b349d2e20c8e5b4a7277b5df84.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Wayne Crosby",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/wcrosby",
+                    "LinkedIn profile": "https://www.linkedin.com/in/wcrosby/"
+                }
+            },
+            {
+                "name": "Robby Walker",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/robbywalker"
+                }
+            }
+        ],
+        "company_url": "https://googleblog.blogspot.com/2007/06/more-sharing.html",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/in/wcrosby/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/zenter"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/octopart",
+        "company_name": "Octopart",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "New York",
+        "tags": [
+            "W07",
+            "ELECTRONICS",
+            "NEW YORK"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7ec50ec51b3c3aa64ab820a6f8ba8edaabbaf3bf.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Andres Morey",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/andres-morey-7227203"
+                }
+            },
+            {
+                "name": "Sam Wurzel",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/sam-wurzel/"
+                }
+            },
+            {
+                "name": "Harish Agarwal",
+                "social_links": {}
+            }
+        ],
+        "company_url": "http://octopart.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/octopart"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/socialmoth",
+        "company_name": "Socialmoth",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/acb4fd542a4fe1f5cb88b64ef71af7aa589d3bb5.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://socialmoth.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/socialmoth"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/auctomatic",
+        "company_name": "Auctomatic",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Harj Taggar",
+                "social_links": {
+                    "Twitter account": "http://twitter.com/harjtaggar",
+                    "LinkedIn profile": "https://linkedin.com/in/harjtaggar"
+                }
+            },
+            {
+                "name": "Patrick Collison",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/patrickc",
+                    "LinkedIn profile": "https://www.linkedin.com/in/patrickcollison/"
+                }
+            },
+            {
+                "name": "Kulveer Taggar",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kulveer/"
+                }
+            }
+        ],
+        "company_url": "http://auctomatic.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/auctomatic"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/view3",
+        "company_name": "View3",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "W07",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://view3.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/view3"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/whitenoise",
+        "company_name": "Whitenoise",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "W07",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://whitenoisenetworks.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/whitenoise-networks"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/writewith",
+        "company_name": "WriteWith",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Corvallis, OR",
+        "tags": [
+            "W07",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://writewith.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/writewith"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/tsumobi",
+        "company_name": "Tsumobi",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Cambridge, MA",
+        "tags": [
+            "W07",
+            "MESSAGING",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://tsumobi.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/tsumobi"
+        }
+    }
+]

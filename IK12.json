@@ -1,0 +1,1722 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sense-education",
+        "company_name": "Sense Education",
+        "founded_year": "",
+        "team_size": "15",
+        "location": "New York",
+        "tags": [
+            "IK12",
+            "AI-ENHANCED-LEARNING",
+            "EDUCATION",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/87bf0779c706e5a0cd21db90c7699ba4490f55dd.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.sense.education",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sown-to-grow",
+        "company_name": "Sown To Grow",
+        "founded_year": "2015",
+        "team_size": "16",
+        "location": "Oakland, CA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "OAKLAND",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c0dd9085a26df5e1722455bd2c545130385e0ac1.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.sowntogrow.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/sown-to-grow",
+            "Twitter account": "https://twitter.com/sowntogrow",
+            "Facebook profile": "https://www.facebook.com/sown2grow",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sown-to-grow"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/allcancode",
+        "company_name": "Allcancode",
+        "founded_year": "2014",
+        "team_size": "8",
+        "location": "Athens, Greece",
+        "tags": [
+            "IK12",
+            "DEVELOPER-TOOLS",
+            "SAAS",
+            "WEB-DEVELOPMENT",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b355005d27e4e3963f4de7ac76d806fe6df8fa01.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Kostas Karolemeas, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/voxelperfect",
+                    "LinkedIn profile": "https://www.linkedin.com/in/kostaskarolemeas/"
+                }
+            },
+            {
+                "name": "Spiros Alvertis, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/spirosalvertis"
+                }
+            }
+        ],
+        "company_url": "https://www.allcancode.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/allcancode",
+            "Twitter account": "https://twitter.com/allcancode",
+            "Facebook profile": "https://www.facebook.com/allcancode",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/allcancode",
+            "Github profile": "https://github.com/allcancode"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/trinket",
+        "company_name": "Trinket",
+        "founded_year": "2013",
+        "team_size": "1",
+        "location": "Raleigh, NC",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d8282b7d49bbfc1952749940a9b35d5c570d3916.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://trinket.io",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/trinketapp",
+            "Twitter account": "https://twitter.com/trinketapp",
+            "Facebook profile": "https://www.facebook.com/trinketapp/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/trinket",
+            "Github profile": "https://github.com/trinketapp"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/classkick",
+        "company_name": "Classkick",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Chicago, IL",
+        "tags": [
+            "IK12",
+            "ARTIFICIAL-INTELLIGENCE",
+            "EDUCATION",
+            "FEEDBACK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d02399527b40769c1b73a996779233d47b8b2ade.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.classkick.com/",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/classkick",
+            "Twitter account": "https://twitter.com/Classkick/",
+            "Facebook profile": "https://www.facebook.com/classkick/",
+            "Github profile": "https://github.com/classkick"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/plickers",
+        "company_name": "Plickers",
+        "founded_year": "2011",
+        "team_size": "5",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ccc01493350e135307c126a372fc89d299e1738.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.plickers.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/plickers",
+            "Twitter account": "https://twitter.com/plickers",
+            "Facebook profile": "https://www.facebook.com/Plickers/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/plickers",
+            "Github profile": "https://github.com/plickers"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/literably",
+        "company_name": "Literably",
+        "founded_year": "2013",
+        "team_size": "10",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8323a1c0fd25b1d1f400ef3d476a9177dca87eb7.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Tyler Borek, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/Literably",
+                    "LinkedIn profile": "https://www.linkedin.com/in/tylerborek/"
+                }
+            },
+            {
+                "name": "Habib Moody, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/habib-moody-5223721aa"
+                }
+            }
+        ],
+        "company_url": "https://literably.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/literably/",
+            "Twitter account": "https://literably.com/twitter",
+            "Facebook profile": "https://www.facebook.com/literably/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/literably",
+            "Github profile": "https://github.com/Literably"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/accredible",
+        "company_name": "Accredible",
+        "founded_year": "2013",
+        "team_size": "125",
+        "location": "Berkeley, CA",
+        "tags": [
+            "IK12",
+            "SAAS",
+            "BERKELEY",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/49d85d2b2aabae6cb500b29e5745320b286b9f84.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.accredible.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/accredible",
+            "Twitter account": "https://twitter.com/Accredible",
+            "Facebook profile": "https://www.facebook.com/Accredible/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/accredible",
+            "Github profile": "https://github.com/accredible"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kodable-education",
+        "company_name": "Kodable Education",
+        "founded_year": "2013",
+        "team_size": "17",
+        "location": "San Diego, CA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "GAMING",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/afb6205777d19b08dcd86fd1be576502644a2f4b.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jon Mattingly, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jonmattingly/"
+                }
+            },
+            {
+                "name": "Grechen Schumacher",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/grechen-huebner/"
+                }
+            }
+        ],
+        "company_url": "https://www.kodable.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/kodable/",
+            "Twitter account": "https://www.twitter.com/kodable",
+            "Facebook profile": "https://www.facebook.com/kodable",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kodable"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/codehs",
+        "company_name": "CodeHS",
+        "founded_year": "2012",
+        "team_size": "83",
+        "location": "Chicago, IL",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6a80efb54fa9f96d65207061cbb459bf601ee9ee.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Zach Galant, Co-Founder & CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/zgalant",
+                    "LinkedIn profile": "https://www.linkedin.com/in/zgalant/"
+                }
+            },
+            {
+                "name": "Jeremy Keeshin, Founder/CEO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/jkeesh",
+                    "LinkedIn profile": "https://www.linkedin.com/in/jkeesh/"
+                }
+            }
+        ],
+        "company_url": "https://codehs.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/codehs/?viewAsMember=true",
+            "Twitter account": "https://twitter.com/codehs",
+            "Facebook profile": "https://www.facebook.com/codehs/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/codehs"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/teachboost",
+        "company_name": "TeachBoost",
+        "founded_year": "2012",
+        "team_size": "15",
+        "location": "Pittsburgh, PA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "FEEDBACK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cd24bb4e54f68fe66c2809bc5782a76c24d2fbc2.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Mike Gioia, Founder",
+                "social_links": {}
+            },
+            {
+                "name": "Jason DeRoner, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jderoner"
+                }
+            },
+            {
+                "name": "Andrew Gioia, Founder/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/andrewgioia"
+                }
+            }
+        ],
+        "company_url": "http://teachboost.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/teachboost",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/teachboost"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/classdojo",
+        "company_name": "ClassDojo",
+        "founded_year": "2011",
+        "team_size": "100",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "CONSUMER",
+            "ENTERTAINMENT",
+            "KIDS",
+            "METAVERSE",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5880942a2efc61218c66b07f0f2704038b3001e8.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sam Chaudhary, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/samchaudhary/"
+                }
+            },
+            {
+                "name": "Liam Don, Founder/CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/liamdon",
+                    "LinkedIn profile": "https://www.linkedin.com/in/liamdon/"
+                }
+            }
+        ],
+        "company_url": "http://www.classdojo.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/classdojo",
+            "Twitter account": "https://twitter.com/classdojo",
+            "Facebook profile": "https://www.facebook.com/classdojo",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/classdojo",
+            "Github profile": "https://github.com/classdojo"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/educreations",
+        "company_name": "Educreations",
+        "founded_year": "2010",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "ELEARNING",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/82e21b62c0774004aebb70f155b11cff7f9b5299.png",
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.educreations.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/educreations",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/educreations"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/goalbook",
+        "company_name": "Goalbook",
+        "founded_year": "2011",
+        "team_size": "100",
+        "location": "San Mateo, CA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAAS",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/afb08bbbfffed51c4d118ae97a744b87e16d9d77.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Daniel Yoo",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/danieljyoo/"
+                }
+            }
+        ],
+        "company_url": "http://goalbookapp.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/goalbook",
+            "Twitter account": "https://twitter.com/goalbookapp",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/goalbook",
+            "Github profile": "https://github.com/goalbook"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/schoolmint",
+        "company_name": "SchoolMint",
+        "founded_year": "2013",
+        "team_size": "300",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAAS",
+            "B2B",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/728ebfc2752a7f1e97fcf2ff2ba58af4c60e350d.png",
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.schoolmint.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/schoolmint/",
+            "Twitter account": "https://twitter.com/school_mint",
+            "Facebook profile": "https://facebook.com/schoolmintdotcom"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/the-rumie-initiative",
+        "company_name": "The Rumie Initiative",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Toronto, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.rumie.org",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/next-tech",
+        "company_name": "Next Tech",
+        "founded_year": "",
+        "team_size": "6",
+        "location": "Oakland, CA",
+        "tags": [
+            "IK12",
+            "OAKLAND",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://next.tech",
+        "company_socials": {
+            "Github profile": "https://github.com/nextdottech"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/swing-education",
+        "company_name": "Swing Education",
+        "founded_year": "",
+        "team_size": "52",
+        "location": "San Mateo, CA",
+        "tags": [
+            "IK12",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.swingeducation.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/swing-education"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kickup",
+        "company_name": "KickUp",
+        "founded_year": "",
+        "team_size": "9",
+        "location": "Philadelphia, PA",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.kickup.co",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kickup"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/tickle",
+        "company_name": "Tickle",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://tickleapp.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/tickle-2"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/projectpro",
+        "company_name": "ProjectPro",
+        "founded_year": "2020",
+        "team_size": "26",
+        "location": "Bengaluru, India",
+        "tags": [
+            "IK12",
+            "DEVELOPER-TOOLS",
+            "EDUCATION",
+            "MACHINE-LEARNING",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.projectpro.io",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/goprojectpro"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mosa-mack-science",
+        "company_name": "Mosa Mack Science",
+        "founded_year": "",
+        "team_size": "",
+        "location": "NY",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.mosamack.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mosa-mack-science-inc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/chesscademy",
+        "company_name": "Chesscademy",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "New York",
+        "tags": [
+            "IK12",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/831330a8286294159cc5c5b24686f0a83b949ec8.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Francis Hinson",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/ki",
+                    "LinkedIn profile": "https://linkedin.com/in/fhinson"
+                }
+            },
+            {
+                "name": "Andrew Ng",
+                "social_links": {
+                    "LinkedIn profile": "http://www.linkedin.com/in/andrewjmng."
+                }
+            }
+        ],
+        "company_url": "http://www.chesscademy.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/chesscademy"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/admitsee",
+        "company_name": "AdmitSee",
+        "founded_year": "",
+        "team_size": "4",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.admitsee.com",
+        "company_socials": {
+            "Twitter account": "http://twitter.com/admitsee",
+            "Facebook profile": "http://facebook.com/admitsee",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/admitsee"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/readworks",
+        "company_name": "ReadWorks",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "New York",
+        "tags": [
+            "IK12",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.readworks.org/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/readworks"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/educents",
+        "company_name": "Educents",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.educents.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/educents",
+            "Github profile": "https://github.com/Educents"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/formative",
+        "company_name": "Formative",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Inglewood, CA",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Kevin McFarland, Founder/CFO/COO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kevinrmcfarland"
+                }
+            },
+            {
+                "name": "Craig Jones, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/craigcarterjones"
+                }
+            }
+        ],
+        "company_url": "http://www.goformative.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/peekapak",
+        "company_name": "Peekapak",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Toronto, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.peekapak.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/peekapak"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/teachme",
+        "company_name": "TeachMe",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Edmonton, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Bill Karamouzis, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/karamouzis",
+                    "LinkedIn profile": "https://www.linkedin.com/in/karamouzis/"
+                }
+            }
+        ],
+        "company_url": "http://www.mathgames.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/bloomboard",
+        "company_name": "Bloomboard",
+        "founded_year": "2010",
+        "team_size": "56",
+        "location": "Pittsburgh, PA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAAS",
+            "ELEARNING",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.bloomboard.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/in/jasonlange/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/bloomboard"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/deanslist",
+        "company_name": "DeansList",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "New York",
+        "tags": [
+            "IK12",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.deanslistsoftware.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/deanslist-inc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/class-central",
+        "company_name": "Class Central",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Mountain View",
+        "tags": [
+            "IK12",
+            "MOUNTAIN VIEW",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.classcentral.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/class-central",
+            "Github profile": "https://github.com/classcentral"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/edoome",
+        "company_name": "Edoome",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.edoome.com",
+        "company_socials": {
+            "Twitter account": "https://www.twitter.com/edoome",
+            "Facebook profile": "https://www.facebook.com/edoome",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/edoome"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/edpuzzle",
+        "company_name": "Edpuzzle",
+        "founded_year": "2013",
+        "team_size": "40",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Santi Herrero, Founder/CTO",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/santihbc",
+                    "LinkedIn profile": "https://www.linkedin.com/in/santih"
+                }
+            },
+            {
+                "name": "Jordi Gonzalez, Founder/Full-stack Developer",
+                "social_links": {}
+            },
+            {
+                "name": "Joaquim Sabria, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/joaquimsabria"
+                }
+            },
+            {
+                "name": "Xavi Verg\u00e9s, Founder",
+                "social_links": {}
+            }
+        ],
+        "company_url": "https://edpuzzle.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/edpuzzle",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/edpuzzle",
+            "Github profile": "https://github.com/EDpuzzle"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kaymbu",
+        "company_name": "Kaymbu",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Boston",
+        "tags": [
+            "IK12",
+            "BOSTON",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://kaymbu.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kaymbu",
+            "Github profile": "https://github.com/Kaymbu-Inc"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/showbie",
+        "company_name": "Showbie",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Edmonton, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.showbie.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/showbie",
+            "Github profile": "https://github.com/showbie"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/kaizena",
+        "company_name": "Kaizena",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Edward Sun",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/eedwardsun",
+                    "LinkedIn profile": "https://linkedin.com/in/edwardsun3"
+                }
+            },
+            {
+                "name": "Max Brodie",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/maxwellbrodie/"
+                }
+            }
+        ],
+        "company_url": "http://www.kaizena.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/kaizena"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/securly",
+        "company_name": "Securly",
+        "founded_year": "",
+        "team_size": "51",
+        "location": "San Jose, CA",
+        "tags": [
+            "IK12",
+            "SAN JOSE",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.securly.com",
+        "company_socials": {
+            "Twitter account": "https://twitter.com/securlyinc",
+            "Facebook profile": "https://www.facebook.com/SecurlyInc/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/securly"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/informed-k12",
+        "company_name": "Informed K12",
+        "founded_year": "2012",
+        "team_size": "70",
+        "location": "Oakland, CA",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAAS",
+            "B2B",
+            "OAKLAND",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.informedk12.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/informedk12",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/chalk-schools",
+            "Github profile": "https://github.com/InformedK12"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/digitwhiz",
+        "company_name": "DigitWhiz",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.digitwhiz.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/digitwhiz"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/noredink",
+        "company_name": "NoRedInk",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.noredink.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/noredink",
+            "Github profile": "https://github.com/NoRedInk"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/hapara",
+        "company_name": "Hapara",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Redwood City, CA",
+        "tags": [
+            "IK12",
+            "REDWOOD CITY",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://hapara.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/hapara"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/edshelf",
+        "company_name": "edshelf",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Mateo, CA",
+        "tags": [
+            "IK12",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://edshelf.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/edshelf"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/taptolearn",
+        "company_name": "TapToLearn",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Menlo Park, CA",
+        "tags": [
+            "IK12",
+            "MENLO PARK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.taptolearn.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/taptolearn"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/remind",
+        "company_name": "Remind",
+        "founded_year": "",
+        "team_size": "51",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Brett Kopf",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/brettkopf",
+                    "LinkedIn profile": "https://www.linkedin.com/in/brettkopf"
+                }
+            },
+            {
+                "name": "David Kopf",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/davekopf"
+                }
+            }
+        ],
+        "company_url": "http://www.remind.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/eduvant",
+        "company_name": "Eduvant",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Austin, TX",
+        "tags": [
+            "IK12",
+            "AUSTIN",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.eduvant.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/eduvant"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/freckle-education",
+        "company_name": "Freckle Education",
+        "founded_year": "2013",
+        "team_size": "52",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAAS",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Sidharth Kakkar, Founder/CEO",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mnordvik"
+                }
+            },
+            {
+                "name": "Alexandr Kurilin",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/alexandrkurilin/"
+                }
+            }
+        ],
+        "company_url": "http://www.freckle.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/freckle-education"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/learnsprout",
+        "company_name": "LearnSprout",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.learnsprout.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/learnsprout"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/answer-ky",
+        "company_name": "Answer.ky",
+        "founded_year": "2015",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Mike Xia",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/xiam"
+                }
+            },
+            {
+                "name": "Kael Greco",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kael-greco-990612170"
+                }
+            }
+        ],
+        "company_url": "http://answer.ky/",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/sesame",
+        "company_name": "Sesame",
+        "founded_year": "2013",
+        "team_size": "0",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "EDUCATION",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://sesamehq.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sesame-hq"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/alieo-games",
+        "company_name": "Alieo Games",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Edmonton, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.alieogames.com/",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/edusight",
+        "company_name": "Edusight",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Toronto, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Vikram Soma",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/vsomasundaram/"
+                }
+            },
+            {
+                "name": "Garros Li",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/garrosli/"
+                }
+            },
+            {
+                "name": "Qiming Weng",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/qimingweng"
+                }
+            }
+        ],
+        "company_url": "https://edusight.co/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/edusight"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mathchat",
+        "company_name": "MathChat",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Mateo, CA",
+        "tags": [
+            "IK12",
+            "SAN MATEO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.getmathchat.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mathchat"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/brightloop",
+        "company_name": "BrightLoop",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Boston",
+        "tags": [
+            "IK12",
+            "BOSTON",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.brightlooplearning.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/brightloop"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/picolab",
+        "company_name": "Picolab",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://getpicolab.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/eduvee",
+        "company_name": "eduvee",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "London, United Kingdom",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.eduvee.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/eduvee"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mission-100",
+        "company_name": "Mission 100%",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Durham, NC",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://mission100percent.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mission-100-"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/classroomiq",
+        "company_name": "ClassroomIQ",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Chicago, IL",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.getclassroomiq.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/cellabus",
+        "company_name": "Cellabus",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.cellabus.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/cellabus"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/netclick-inc",
+        "company_name": "NetClick Inc.",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "Kitchener, Canada",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.netclick.me",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/geddit",
+        "company_name": "Geddit",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://letsgeddit.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/geddit"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/gigabryte",
+        "company_name": "GigaBryte",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.gigabryte.com/",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/gigabryte"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/videonotes",
+        "company_name": "VideoNotes",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Palo Alto",
+        "tags": [
+            "IK12",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://videonot.es",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/videonot-es"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/studyroom",
+        "company_name": "StudyRoom",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.getstudyroom.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/studyroom"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/tioki",
+        "company_name": "Tioki",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.tioki.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/blendspace",
+        "company_name": "Blendspace",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.blendspace.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/blendspace"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/mommazoo",
+        "company_name": "MommaZoo",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Carlos, CA",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.mommazoo.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/mommazoo"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/smartercookie",
+        "company_name": "SmarterCookie",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://beasmartercookie.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/smartercookie"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/dsk",
+        "company_name": "DSK",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://mytryumph.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/socrative",
+        "company_name": "Socrative",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Cambridge, MA",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://htp://www.socrative.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/topmind",
+        "company_name": "TopMind",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://satrocket.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/sat-rocket"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/learningjar",
+        "company_name": "LearningJar",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Leandro, CA",
+        "tags": [
+            "IK12",
+            "SAN LEANDRO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.learningjar.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/learningjar"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/instagrok",
+        "company_name": "InstaGrok",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "Berkeley, CA",
+        "tags": [
+            "IK12",
+            "BERKELEY",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.instagrok.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/class-connect",
+        "company_name": "Class Connect",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "IK12",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.classconnect.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/classconnect-technologies"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/brainnook",
+        "company_name": "BrainNook",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.brainnook.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/tutorcloud",
+        "company_name": "TutorCloud",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://www.tutorcloud.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/eleven-learning",
+        "company_name": "Eleven Learning",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "IK12",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "https://www.elevenlearning.com",
+        "company_socials": {}
+    }
+]

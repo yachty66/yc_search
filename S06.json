@@ -1,0 +1,288 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/omgpop",
+        "company_name": "OMGPop",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "New York",
+        "tags": [
+            "S06",
+            "GAMING",
+            "SOCIAL",
+            "NEW YORK"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/559672d261ba77a0c9e1d4b44d65ac758988d804.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Charles Forman",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/charlesforman",
+                    "LinkedIn profile": "https://www.linkedin.com/in/iminlikewithyou/"
+                }
+            }
+        ],
+        "company_url": "https://omgpop.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/omgpop"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/scribd",
+        "company_name": "Scribd",
+        "founded_year": "2007",
+        "team_size": "300",
+        "location": "San Francisco",
+        "tags": [
+            "S06",
+            "AI-ENHANCED-LEARNING",
+            "REMOTE-WORK",
+            "EDTECH",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/01a86e89391dfdeb194190d1925b25fee5854301.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Jared Friedman, Founder/CTO",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/jaredfriedman"
+                }
+            }
+        ],
+        "company_url": "http://scribd.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/scribd/",
+            "Twitter account": "https://twitter.com/Scribd",
+            "Facebook profile": "https://www.facebook.com/Scribd/",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/scribd",
+            "Github profile": "https://github.com/scribd"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/zanbazaar",
+        "company_name": "Zanbazaar",
+        "founded_year": "2006",
+        "team_size": "4",
+        "location": "Boston",
+        "tags": [
+            "S06",
+            "MARKETPLACE",
+            "E-COMMERCE",
+            "BOSTON",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd4391e0b6ed813abfdc366a75e5d2880f24ee72.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sean McBride",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/smcbride",
+                    "LinkedIn profile": "https://www.linkedin.com/in/smcbride"
+                }
+            },
+            {
+                "name": "Dean Dieker",
+                "social_links": {}
+            },
+            {
+                "name": "Brendan Doms",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/brendandoms"
+                }
+            },
+            {
+                "name": "Brian Shih",
+                "social_links": {}
+            }
+        ],
+        "company_url": "http://zanbazaar.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/jamglue",
+        "company_name": "Jamglue",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Seattle, WA",
+        "tags": [
+            "S06",
+            "COLLABORATION",
+            "SOCIAL-NETWORK",
+            "MUSIC",
+            "SEATTLE",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c3695ab882c2580e027ef6e09bc0e9af5aed1485.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Gautam Jayaraman",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/gautamj/"
+                }
+            },
+            {
+                "name": "Casey Muller",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/caseymrm",
+                    "LinkedIn profile": "https://www.linkedin.com/in/caseymrm"
+                }
+            },
+            {
+                "name": "Divya Bhat",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/divyab/"
+                }
+            },
+            {
+                "name": "Matt Rubens",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mattrubens/"
+                }
+            }
+        ],
+        "company_url": "http://jamglue.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/jumpchat",
+        "company_name": "Jumpchat",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "S06",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://jumpchat.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/xobni",
+        "company_name": "Xobni",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "S06",
+            "SAN FRANCISCO"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Matt Brezina, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/brezina"
+                }
+            }
+        ],
+        "company_url": "http://xobni.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/xobni"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/likebetter",
+        "company_name": "Likebetter",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Cambridge, MA",
+        "tags": [
+            "S06",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://likebetter.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/likebetter-com"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/shoutfit",
+        "company_name": "Shoutfit",
+        "founded_year": "2006",
+        "team_size": "3",
+        "location": "San Francisco",
+        "tags": [
+            "S06",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://shoutfit.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/pollground",
+        "company_name": "Pollground",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S06",
+            "MARKET-RESEARCH",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Fred Zhang, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/fan1zhang"
+                }
+            }
+        ],
+        "company_url": "http://pollground.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/talkito",
+        "company_name": "Talkito",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S06",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Hovig Bayandorian, Founder",
+                "social_links": {}
+            }
+        ],
+        "company_url": "http://talkito.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/thinkature",
+        "company_name": "Thinkature",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S06",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://thinkature.com",
+        "company_socials": {}
+    }
+]

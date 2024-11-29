@@ -1,0 +1,568 @@
+[
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/poll-everywhere",
+        "company_name": "Poll Everywhere",
+        "founded_year": "2008",
+        "team_size": "70",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "SAAS",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ecbec2f3750898b4408fbaa96c7249395a7fc445.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sean Eby",
+                "social_links": {}
+            },
+            {
+                "name": "Brad Gessler",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/bradgessler",
+                    "LinkedIn profile": "https://www.linkedin.com/in/bradgessler/"
+                }
+            },
+            {
+                "name": "Jeff Vyduna",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/jeffvyduna/"
+                }
+            }
+        ],
+        "company_url": "https://www.polleverywhere.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/poll-everywhere-inc.",
+            "Twitter account": "https://twitter.com/polleverywhere",
+            "Facebook profile": "https://www.facebook.com/polleverywhere",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/poll-everywhere",
+            "Github profile": "https://github.com/polleverywhere"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/backtype",
+        "company_name": "BackType",
+        "founded_year": "2008",
+        "team_size": "0",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "SAAS",
+            "DATA-ENGINEERING",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0ec00079f2609a11308b0e89a7e2ed64081516db.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Christopher Golda",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/golda",
+                    "LinkedIn profile": "https://www.linkedin.com/in/christophergolda/"
+                }
+            },
+            {
+                "name": "Michael Montano",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/michaelmontano",
+                    "LinkedIn profile": "https://www.linkedin.com/in/mikemontano"
+                }
+            }
+        ],
+        "company_url": "http://backtype.com",
+        "company_socials": {
+            "LinkedIn profile": "https://www.linkedin.com/company/backtype",
+            "Twitter account": "https://twitter.com/backtype",
+            "Crunchbase profile": "https://www.crunchbase.com/organization/backtype"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/posterous",
+        "company_name": "Posterous",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "EMAIL",
+            "SAN FRANCISCO"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5bc0011671097bf05400aa3d979a22a7452d3867.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Sachin Agarwal",
+                "social_links": {
+                    "Twitter account": "http://twitter.com/agarwal",
+                    "LinkedIn profile": "https://www.linkedin.com/in/a4agarwal/"
+                }
+            },
+            {
+                "name": "Brett Gibson",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/brettdg",
+                    "LinkedIn profile": "https://www.linkedin.com/in/brettdgibson/"
+                }
+            },
+            {
+                "name": "Garry Tan",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/garrytan",
+                    "LinkedIn profile": "https://www.linkedin.com/in/garrytan/"
+                }
+            }
+        ],
+        "company_url": "http://posterous.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/posterous"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/picwing",
+        "company_name": "Picwing",
+        "founded_year": "",
+        "team_size": "11",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "SOCIAL",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9e865cf64815fa8e2f38e1969ab67848346e981d.png",
+        "description": null,
+        "founders": [
+            {
+                "name": "Edward Kim",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/edawerd",
+                    "LinkedIn profile": "https://www.linkedin.com/in/edawerd/"
+                }
+            },
+            {
+                "name": "Enrique Rodriguez",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/echamussy",
+                    "LinkedIn profile": "https://www.linkedin.com/in/enriquerodriguezchamussy/"
+                }
+            }
+        ],
+        "company_url": "http://picwing.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/picwing"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/cloudant",
+        "company_name": "Cloudant",
+        "founded_year": "",
+        "team_size": "51",
+        "location": "Boston",
+        "tags": [
+            "S08",
+            "BOSTON"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Michael Miller",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/mlmilleratmit"
+                }
+            },
+            {
+                "name": "Alan Hoffman",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/alanmhoffman"
+                }
+            },
+            {
+                "name": "Adam Kocoloski",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/kocolosk"
+                }
+            }
+        ],
+        "company_url": "http://cloudant.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/cloudant"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/justspotted",
+        "company_name": "JustSpotted",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Copenhagen, Denmark",
+        "tags": [
+            "S08",
+            "ARTIFICIAL-INTELLIGENCE",
+            "ML"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://justspotted.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/justspotted"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/treehouse",
+        "company_name": "Treehouse",
+        "founded_year": "",
+        "team_size": "101",
+        "location": "Portland, OR",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://gotreehouse.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/slinkset",
+        "company_name": "Slinkset",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "MEDIA",
+            "SOCIAL",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Brett Gibson",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/brettdg",
+                    "LinkedIn profile": "https://www.linkedin.com/in/brettdgibson/"
+                }
+            },
+            {
+                "name": "John Baunach",
+                "social_links": {
+                    "LinkedIn profile": "https://linkedin.com/in/jbaunach"
+                }
+            }
+        ],
+        "company_url": "http://slinkset.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/slinkset"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/playreader",
+        "company_name": "PlayReader",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://playreader.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/people-and-pages",
+        "company_name": "People & Pages",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://peopleandpages.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/people-and-pages"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/popcuts",
+        "company_name": "Popcuts",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Lucerne Valley, CA",
+        "tags": [
+            "S08",
+            "MARKETPLACE",
+            "E-COMMERCE",
+            "MUSIC",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://popcuts.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/popcuts"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/snipd",
+        "company_name": "Snipd",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Palo Alto",
+        "tags": [
+            "S08",
+            "PALO ALTO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://snipd.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/snipd"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/ticket-stumbler",
+        "company_name": "Ticket Stumbler",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Boston",
+        "tags": [
+            "S08",
+            "BOSTON",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://ticketstumbler.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/ticketstumbler"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/claimspotting",
+        "company_name": "Claimspotting",
+        "founded_year": "2008",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S08",
+            "PROPTECH",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://urbantakeover.at",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/team-apart",
+        "company_name": "Team Apart",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Wes Hather",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/whather",
+                    "LinkedIn profile": "https://www.linkedin.com/in/whather/"
+                }
+            },
+            {
+                "name": "Gordon Hempton",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/ghempton",
+                    "LinkedIn profile": "https://www.linkedin.com/in/ghempton/"
+                }
+            },
+            {
+                "name": "Michael Hoisie",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/hoisie"
+                }
+            }
+        ],
+        "company_url": "http://teamapart.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/team-apart"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/youlicit",
+        "company_name": "Youlicit",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "New York",
+        "tags": [
+            "S08",
+            "NEW YORK",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://youlicit.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/youlicit"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/precognate",
+        "company_name": "Precognate",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://precognate.com",
+        "company_socials": {}
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/co2stats",
+        "company_name": "CO2Stats",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "Cambridge, MA",
+        "tags": [
+            "S08",
+            "CLIMATE",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Alexander Wissner-Gross, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/alexwg",
+                    "LinkedIn profile": "https://www.linkedin.com/in/alexwg/"
+                }
+            }
+        ],
+        "company_url": "http://co2stats.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/co2stats"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/anyvite",
+        "company_name": "Anyvite",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "Columbia, MD",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://anyvite.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/anyvite"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/frogmetrics",
+        "company_name": "Frogmetrics",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "NY",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://frogmetrics.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/frogmetrics"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/job-alchemist",
+        "company_name": "Job Alchemist",
+        "founded_year": "",
+        "team_size": "0",
+        "location": "",
+        "tags": [
+            "S08",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [
+            {
+                "name": "Luke Groesbeck, Founder",
+                "social_links": {
+                    "Twitter account": "https://twitter.com/newgroesbeck",
+                    "LinkedIn profile": "https://linkedin.com/in/lukegroesbeck"
+                }
+            },
+            {
+                "name": "Loc Ngo, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/locngo"
+                }
+            },
+            {
+                "name": "Ben Wong, Founder",
+                "social_links": {
+                    "LinkedIn profile": "https://www.linkedin.com/in/benwong0"
+                }
+            }
+        ],
+        "company_url": "http://jobalchemist.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/jobalchemist"
+        }
+    },
+    {
+        "yc_page_url": "https://www.ycombinator.com/companies/ohlife",
+        "company_name": "OhLife",
+        "founded_year": "",
+        "team_size": "2",
+        "location": "San Francisco",
+        "tags": [
+            "S08",
+            "SAN FRANCISCO",
+            "Active"
+        ],
+        "logo": null,
+        "description": null,
+        "founders": [],
+        "company_url": "http://ohlife.com",
+        "company_socials": {
+            "Crunchbase profile": "https://www.crunchbase.com/organization/ohlife"
+        }
+    }
+]
